@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Status Saver Pro</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="App_Id">ca-app-pub-8573825847307688~4682000057</string>
+
+    <string name="intertitial_Ads_unitId">ca-app-pub-8573825847307688/9109998523</string>
+
+    <string name="banner_Ads_unitId">ca-app-pub-8573825847307688/4049243534</string>
+
+    <string name="banner_test_ads">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
