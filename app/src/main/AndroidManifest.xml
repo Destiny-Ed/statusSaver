@@ -13,15 +13,16 @@
         android:roundIcon="@mipmap/status_pro"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.destinyed.statussaverpro.showImageAndVideo.ImageSavedFullScreen"
-            android:configChanges="screenSize|orientation|uiMode"></activity>
-
-        <activity android:name="com.destinyed.statussaverpro.showImageAndVideo.videoSavedFullScreen"
-            android:configChanges="screenSize|orientation|uiMode"></activity>
-
-        <activity android:name="com.destinyed.statussaverpro.splashScreen_and_Settings_utils.Settings"/>
-
-        <activity android:name="com.destinyed.statussaverpro.splashScreen_and_Settings_utils.Splash"
+        <activity android:name=".News.NewsRead"></activity>
+        <activity
+            android:name=".showImageAndVideo.ImageSavedFullScreen"
+            android:configChanges="screenSize|orientation|uiMode" />
+        <activity
+            android:name=".showImageAndVideo.videoSavedFullScreen"
+            android:configChanges="screenSize|orientation|uiMode" />
+        <activity android:name=".splashScreen_and_Settings_utils.Settings" />
+        <activity
+            android:name=".splashScreen_and_Settings_utils.Splash"
             android:configChanges="screenSize|orientation|uiMode">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -29,14 +30,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name="com.destinyed.statussaverpro.showImageAndVideo.videoFullScreen"
-            android:configChanges="screenSize|orientation|uiMode"/>
-
-        <activity android:name="com.destinyed.statussaverpro.showImageAndVideo.ImageFullScreen"
-            android:configChanges="screenSize|orientation|uiMode"/>
-
-        <activity android:name="com.destinyed.statussaverpro.MainActivity"
+        <activity
+            android:name=".showImageAndVideo.videoFullScreen"
+            android:configChanges="screenSize|orientation|uiMode" />
+        <activity
+            android:name=".showImageAndVideo.ImageFullScreen"
+            android:configChanges="screenSize|orientation|uiMode" />
+        <activity
+            android:name=".MainActivity"
             android:configChanges="screenSize|orientation|uiMode">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
