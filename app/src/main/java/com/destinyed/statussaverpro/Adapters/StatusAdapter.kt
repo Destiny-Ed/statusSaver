@@ -60,22 +60,22 @@ class StatusAdapter(var ctx : Context, var statusArr : ArrayList<Models>, var im
             }
 
 
-            saveBtn.setOnClickListener {
-                var statusDownload = statusArr[adapterPosition]
-
-                if (statusDownload != null){
-                    try {
-                        imageFragment.downloadImage(statusDownload)
-                        //show download toast
-                        Toast.makeText(ctx, "Downloaded to ${ConstantsVariables.AppDirImage}", Toast.LENGTH_LONG).show()
-                        ctx.startActivity(Intent(ctx, MainActivity::class.java))
-                    }
-                    catch (e:Exception){
-                        e.printStackTrace()
-                    }
-                }
-
-            }
+//            saveBtn.setOnClickListener {
+//                var statusDownload = statusArr[adapterPosition]
+//
+//                if (statusDownload != null){
+//                    try {
+//                        imageFragment.downloadImage(statusDownload)
+//                        //show download toast
+//                        Toast.makeText(ctx, "Downloaded to ${ConstantsVariables.AppDirImage}", Toast.LENGTH_LONG).show()
+//                        ctx.startActivity(Intent(ctx, MainActivity::class.java))
+//                    }
+//                    catch (e:Exception){
+//                        e.printStackTrace()
+//                    }
+//                }
+//
+//            }
 
 
         }

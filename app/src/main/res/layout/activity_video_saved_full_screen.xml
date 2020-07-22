@@ -17,7 +17,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:id="@+id/goBack"
-            android:src="@drawable/ic_back"/>
+            app:srcCompat="@drawable/ic_back"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -30,22 +30,22 @@
 
     </androidx.appcompat.widget.Toolbar>
 
-    <com.google.android.gms.ads.AdView
-        xmlns:ads="http://schemas.android.com/apk/res-auto"
-        android:id="@+id/adView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:layout_below="@id/toolbar"
-        ads:adSize="BANNER"
-        ads:adUnitId="@string/banner_Ads_unitId">
-    </com.google.android.gms.ads.AdView>
+<!--    <com.google.android.gms.ads.AdView-->
+<!--        xmlns:ads="http://schemas.android.com/apk/res-auto"-->
+<!--        android:id="@+id/adView"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center_horizontal"-->
+<!--        android:layout_below="@id/toolbar"-->
+<!--        ads:adSize="BANNER"-->
+<!--        ads:adUnitId="@string/banner_Ads_unitId">-->
+<!--    </com.google.android.gms.ads.AdView>-->
 
 
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/adView"
+        android:layout_below="@id/toolbar"
         android:id="@+id/frameLayout"
         android:layout_centerInParent="true"
         android:layout_gravity="center">
@@ -58,15 +58,27 @@
 
     </FrameLayout>
 
-    <com.google.android.gms.ads.AdView
-        xmlns:ads="http://schemas.android.com/apk/res-auto"
-        android:id="@+id/adViewBelow"
-        android:layout_width="match_parent"
+<!--    <com.google.android.gms.ads.AdView-->
+<!--        xmlns:ads="http://schemas.android.com/apk/res-auto"-->
+<!--        android:id="@+id/adViewBelow"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center_horizontal"-->
+<!--        android:layout_below="@id/frameLayout"-->
+<!--        ads:adSize="BANNER"-->
+<!--        ads:adUnitId="@string/banner_Ads_unitId">-->
+<!--    </com.google.android.gms.ads.AdView>-->
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:layout_below="@id/frameLayout"
-        ads:adSize="BANNER"
-        ads:adUnitId="@string/banner_Ads_unitId">
-    </com.google.android.gms.ads.AdView>
+        android:id="@+id/shareVideo"
+        app:srcCompat="@drawable/ic_share"
+        app:elevation="20dp"
+        app:rippleColor="@color/colorRed"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"/>
 
 </RelativeLayout>

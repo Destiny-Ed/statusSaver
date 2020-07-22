@@ -1,24 +1,30 @@
 package com.destinyed.statussaverpro.showImageAndVideo
 
+import android.content.Intent
 import android.graphics.Bitmap
+import android.graphics.BitmapFactory
 import android.graphics.drawable.BitmapDrawable
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
+import androidx.print.PrintHelper
 import com.google.android.gms.ads.*
 import com.destinyed.statussaverpro.R
+import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 class ImageSavedFullScreen : AppCompatActivity() {
 
     //variable for admob
-    private lateinit var mAdView : AdView
-    private val mAppUnitId: String by lazy {
-
-        "ca-app-pub-8573825847307688/4049243534"
-        //test ads
-//        "ca-app-pub-3940256099942544/6300978111"
-    }
+//    private lateinit var mAdView : AdView
+//    private val mAppUnitId: String by lazy {
+//
+//        "ca-app-pub-8573825847307688/4049243534"
+//        //test ads
+////        "ca-app-pub-3940256099942544/6300978111"
+//    }
+    private lateinit var printImage : FloatingActionButton
+    private lateinit var shareImage : FloatingActionButton
 
     private lateinit var showImage : ImageView
 
@@ -26,7 +32,7 @@ class ImageSavedFullScreen : AppCompatActivity() {
 
     private var imageTitle : String? = null
 
-    private lateinit var mInterstitialAd: InterstitialAd
+//    private lateinit var mInterstitialAd: InterstitialAd
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -35,25 +41,27 @@ class ImageSavedFullScreen : AppCompatActivity() {
         /**
          *InterstitialAds Implementation
          */
-        MobileAds.initialize(this,
-            "ca-app-pub-8573825847307688~4682000057")
-        mInterstitialAd = InterstitialAd(this)
-        mInterstitialAd.adUnitId = "ca-app-pub-8573825847307688/9109998523"
-        mInterstitialAd.loadAd(AdRequest.Builder().build())
+//        MobileAds.initialize(this,
+//            "ca-app-pub-8573825847307688~4682000057")
+//        mInterstitialAd = InterstitialAd(this)
+//        mInterstitialAd.adUnitId = "ca-app-pub-8573825847307688/9109998523"
+//        mInterstitialAd.loadAd(AdRequest.Builder().build())
 
         /**
          * Banner |Ads Implementation
          */
-        mAdView = findViewById(R.id.adView)
+//        mAdView = findViewById(R.id.adView)
 
-        initializeMobileAdBanner(mAppUnitId)
+//        initializeMobileAdBanner(mAppUnitId)
 
         //Load banner ads
-        loadBannerAd()
+//        loadBannerAd()
 
 
         showImage = findViewById(R.id.showSavedImageFullScreen)
         var goBack = findViewById<ImageView>(R.id.goBack)
+        printImage = findViewById(R.id.printImage)
+        shareImage = findViewById(R.id.shareImage)
 
         //get ImageUri from StatusAdapter Intent
         var intent = intent.extras
@@ -67,48 +75,74 @@ class ImageSavedFullScreen : AppCompatActivity() {
 
         bitmap = (showImage.drawable as BitmapDrawable).bitmap
 
-        runAds()
 
         goBack.setOnClickListener {
             onBackPressed()
         }
 
-    }
+        shareImage.setOnClickListener {
+            doShare_Image(uri)
+        }
 
-    private fun runAds() {
-        mInterstitialAd.adListener = object : AdListener() {
-
-            override fun onAdLoaded() {
-                super.onAdLoaded()
-                mInterstitialAd.show()
-            }
-            override fun onAdClicked() {
-                super.onAdOpened()
-                mInterstitialAd.adListener.onAdClosed()
-            }
-
-            // If user closes the ad, s/he is directed to DetailActivity.
-            override fun onAdClosed() {
-
-
-            }
+        printImage.setOnClickListener {
+            doPrint_Image(imageUri, imageTitle)
         }
 
     }
 
+    private fun doPrint_Image(uri : String?, title : String?) {
+        PrintHelper(baseContext).apply {
+            PrintHelper.SCALE_MODE_FIT
+        }.also {
+            val bitmap = BitmapFactory.decodeFile(uri)
+            it.printBitmap(title!!, bitmap)
+        }
+
+    }
+
+    private fun doShare_Image(imageUri: Uri?) {
+        var intent = Intent(Intent.ACTION_SEND)
+        intent.type = "image/*"
+
+        intent.putExtra(Intent.EXTRA_STREAM, imageUri)
+        startActivity(Intent.createChooser(intent, "Share Image via..."))
+    }
+
+
+//    private fun runAds() {
+//        mInterstitialAd.adListener = object : AdListener() {
+//
+//            override fun onAdLoaded() {
+//                super.onAdLoaded()
+//                mInterstitialAd.show()
+//            }
+//            override fun onAdClicked() {
+//                super.onAdOpened()
+//                mInterstitialAd.adListener.onAdClosed()
+//            }
+//
+//            // If user closes the ad, s/he is directed to DetailActivity.
+//            override fun onAdClosed() {
+//
+//
+//            }
+//        }
+//
+//    }
+
     /**
      * For Banner Ads
      */
-    private fun initializeMobileAdBanner(mAppUnitId: String) {
-        MobileAds.initialize(this, mAppUnitId)
-    }
+//    private fun initializeMobileAdBanner(mAppUnitId: String) {
+//        MobileAds.initialize(this, mAppUnitId)
+//    }
     /**
      * For Banner Ads
      */
-    private fun loadBannerAd() {
-        val adRequest = AdRequest.Builder().build()
-        mAdView.loadAd(adRequest)
-    }
+//    private fun loadBannerAd() {
+//        val adRequest = AdRequest.Builder().build()
+//        mAdView.loadAd(adRequest)
+//    }
     //Banner implementation ends
 
 }

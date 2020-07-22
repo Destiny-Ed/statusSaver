@@ -72,7 +72,7 @@ class Saved_Videos : Fragment() {
                 var videoThumbnail = ThumbnailUtils.createVideoThumbnail(path, MediaStore.Images.Thumbnails.MICRO_KIND)
 
                 if (videoFiles.isNotEmpty()){
-                    videoArr.add(Models(file, title, path, videoThumbnail))
+                    videoArr.add(Models(file, title, path, videoThumbnail!!))
                 }
             }
         }catch (e:Exception){
