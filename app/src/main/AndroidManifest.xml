@@ -14,7 +14,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:requestLegacyExternalStorage="true">
-        <activity android:name=".News.NewsRead"></activity>
+        <activity android:name=".News.NewsRead"
+            android:configChanges="screenSize|orientation|uiMode">
+
+        </activity>
         <activity
             android:name=".showImageAndVideo.ImageSavedFullScreen"
             android:configChanges="screenSize|orientation|uiMode" />
