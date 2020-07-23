@@ -21,7 +21,7 @@
         <activity
             android:name=".showImageAndVideo.videoSavedFullScreen"
             android:configChanges="screenSize|orientation|uiMode" />
-        <activity android:name=".splashScreen_and_Settings_utils.Settings" />
+
         <activity
             android:name=".splashScreen_and_Settings_utils.Splash"
             android:configChanges="screenSize|orientation|uiMode">

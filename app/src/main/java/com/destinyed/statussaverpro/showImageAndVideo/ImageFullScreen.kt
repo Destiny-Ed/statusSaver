@@ -161,7 +161,7 @@ class ImageFullScreen : AppCompatActivity() {
     //Banner implementation ends
 
     private fun downloadImage() {
-        var AppDir = ConstantsVariables.dir
+        var AppDir = ConstantsVariables.AppDirImage
         if (!AppDir.exists()){
             AppDir.mkdirs()
         }

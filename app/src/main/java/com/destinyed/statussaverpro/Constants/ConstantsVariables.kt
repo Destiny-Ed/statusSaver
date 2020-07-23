@@ -17,7 +17,6 @@ object ConstantsVariables {
 
 
     val AppDirImage = File(Environment.getExternalStorageDirectory().toString() + "/StatusSaverProDir/Images")
-    var dir = File(Environment.DIRECTORY_DCIM + "/WSavaer/Images")
 
     val AppDirVideo = File(Environment.getExternalStorageDirectory().toString() + "/StatusSaverProDir/Videos")
 

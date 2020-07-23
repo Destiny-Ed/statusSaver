@@ -31,8 +31,6 @@ class Wsaver : Fragment() {
     ): View? {
         // Inflate the layout for this fragment
         var root = inflater.inflate(R.layout.fragment_wsaver, container, false)
-        var progress = root.findViewById<ProgressBar>(R.id.progress)
-        progress.visibility = View.VISIBLE
         /**
          * Initialize the global variables
          */
