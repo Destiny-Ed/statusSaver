@@ -1,5 +1,6 @@
 package com.destinyed.statussaverpro.Adapters
 
+import android.app.AlertDialog
 import android.content.Context
 import android.content.Intent
 import android.view.LayoutInflater
@@ -55,6 +56,17 @@ class Video_Saved_Adapter(var ctx : Context, var statusArr : ArrayList<Models>) 
 
             var animation = AnimationUtils.loadAnimation(ctx, R.anim.rotate)
             playBtn.animation = animation
+
+            itemView.setOnClickListener {
+                var dialog = AlertDialog.Builder(ctx)
+                dialog.setMessage("You can't recover delete file. Do you want to proceed?")
+                dialog.setNeutralButton("No. Cancel", null)
+                dialog.setPositiveButton("Yes. Delete Forever") {
+                    _, _ ->
+                    status.file.delete()
+                }
+                dialog.create().show()
+            }
 
 
         }

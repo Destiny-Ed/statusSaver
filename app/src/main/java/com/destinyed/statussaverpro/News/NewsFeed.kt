@@ -19,6 +19,9 @@ import com.destinyed.statussaverpro.Constants.Constants
 import com.destinyed.statussaverpro.R
 import com.destinyed.statussaverpro.RecyclerView.newsAdapter
 import com.destinyed.statussaverpro.RecyclerView.newsModel
+import com.google.android.gms.ads.AdRequest
+import com.google.android.gms.ads.AdView
+import com.google.android.gms.ads.MobileAds
 import com.google.android.material.snackbar.Snackbar
 import kotlinx.android.synthetic.main.fragment_news_feed.*
 import org.json.JSONObject
@@ -35,12 +38,36 @@ class NewsFeed : Fragment() {
 
     private lateinit var progress : ProgressBar
 
+    private lateinit var mAdView : AdView
+    private val mAppUnitId: String by lazy {
+
+        "ca-app-pub-4496634947416290/9785820757"
+
+        //test ads
+//        "ca-app-pub-3940256099942544/6300978111"
+    }
+
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
         var root = inflater.inflate(R.layout.fragment_news_feed, container, false)
+
+        /**
+         * Banner ads
+         */
+        MobileAds.initialize(context,
+            "ca-app-pub-4496634947416290~5962125810")
+        /**
+         * Banner |Ads Implementation
+         */
+        mAdView = root.findViewById(R.id.adView)
+
+        initializeMobileAdBanner(mAppUnitId)
+
+        //Load banner ads
+        loadBannerAd()
 
         progress = root.findViewById(R.id.progress)
 
@@ -94,8 +121,8 @@ class NewsFeed : Fragment() {
 
                 //add the arr to the adapter
                 adapter = newsAdapter(context!!, arr)
-                adapter.notifyDataSetChanged()
                 newsFeedView.adapter = adapter
+                adapter.notifyDataSetChanged()
                 progress.visibility = View.GONE
             },
             Response.ErrorListener {
@@ -110,6 +137,21 @@ class NewsFeed : Fragment() {
 
 
     }
+
+    /**
+     * For Banner Ads
+     */
+    private fun initializeMobileAdBanner(mAppUnitId: String) {
+        MobileAds.initialize(context, mAppUnitId)
+    }
+    /**
+     * For Banner Ads
+     */
+    private fun loadBannerAd() {
+        val adRequest = AdRequest.Builder().build()
+        mAdView.loadAd(adRequest)
+    }
+    //Banner implementation ends
 
     private fun toast(message : String){
         Toast.makeText(context, message, Toast.LENGTH_SHORT).show()

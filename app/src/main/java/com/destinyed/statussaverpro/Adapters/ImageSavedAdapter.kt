@@ -1,5 +1,6 @@
 package com.destinyed.statussaverpro.Adapters
 
+import android.app.AlertDialog
 import android.content.Context
 import android.content.Intent
 import android.view.LayoutInflater
@@ -47,12 +48,26 @@ class ImageSavedAdapter(var ctx : Context, var imageArr : ArrayList<Models>) : R
             //set onClick Listener to image
             imageThumbnailSaved.setOnClickListener {
                 //set image uri to ImageFullScreen
-                var intent = Intent(ctx, ImageSavedFullScreen::class.java)
-                intent.putExtra("imageUri", imageM.path)
-                intent.putExtra("title", imageM.title)
-                ctx.startActivity(intent)
+                var dialog = AlertDialog.Builder(ctx)
+                dialog.setTitle("Message")
+                dialog.setNeutralButton("Delete Forever") {
+                    _, _ ->
+                    imageM.file.delete()
+                }
+                dialog.setPositiveButton("View Image"){
+                    _, _ ->
+
+                    var intent = Intent(ctx, ImageSavedFullScreen::class.java)
+                    intent.putExtra("imageUri", imageM.path)
+                    intent.putExtra("title", imageM.title)
+                    ctx.startActivity(intent)
+                }
+                dialog.create().show()
+
+
 
             }
+
 
         }
     }

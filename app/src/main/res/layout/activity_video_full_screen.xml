@@ -30,23 +30,23 @@
 
     </androidx.appcompat.widget.Toolbar>
 
-<!--    <com.google.android.gms.ads.AdView-->
-<!--        xmlns:ads="http://schemas.android.com/apk/res-auto"-->
-<!--        android:id="@+id/adView"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:layout_gravity="center_horizontal"-->
-<!--        android:layout_below="@id/toolbar"-->
-<!--        ads:adSize="BANNER"-->
-<!--        ads:adUnitId="@string/banner_Ads_unitId">-->
-<!--    </com.google.android.gms.ads.AdView>-->
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@id/toolbar"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_Ads_unitId">
+    </com.google.android.gms.ads.AdView>
 
 
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/frameLayout"
-        android:layout_below="@id/toolbar"
+        android:layout_below="@id/adView"
         android:layout_centerInParent="true"
         android:layout_centerVertical="true"
         android:layout_gravity="center">

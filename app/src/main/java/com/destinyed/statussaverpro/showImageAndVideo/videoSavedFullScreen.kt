@@ -12,16 +12,15 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton
 class videoSavedFullScreen : AppCompatActivity() {
 
     //variable for admob
-//    private lateinit var mAdView : AdView
-//    private lateinit var mAdViewBelow : AdView
-//    private val mAppUnitId: String by lazy {
-//
-//        "ca-app-pub-8573825847307688/4049243534"
-//        //test ads
-////        "ca-app-pub-3940256099942544/6300978111"
-//    }
+    private lateinit var mAdView : AdView
+    private val mAppUnitId: String by lazy {
 
-//    private lateinit var mInterstitialAd: InterstitialAd
+        "ca-app-pub-4496634947416290/9785820757"
+        //test ads
+//        "ca-app-pub-3940256099942544/6300978111"
+    }
+
+    private lateinit var mInterstitialAd: InterstitialAd
     private lateinit var shareVideo : FloatingActionButton
 
     private lateinit var videoView : VideoView
@@ -34,22 +33,21 @@ class videoSavedFullScreen : AppCompatActivity() {
         /**
          *InterstitialAds Implementation
          */
-//        MobileAds.initialize(this,
-//            "ca-app-pub-8573825847307688~4682000057")
-//        mInterstitialAd = InterstitialAd(this)
-//        mInterstitialAd.adUnitId = "ca-app-pub-8573825847307688/9109998523"
-//        mInterstitialAd.loadAd(AdRequest.Builder().build())
+        MobileAds.initialize(this,
+            "ca-app-pub-4496634947416290~5962125810")
+        mInterstitialAd = InterstitialAd(this)
+        mInterstitialAd.adUnitId = "ca-app-pub-4496634947416290/2022880802"
+        mInterstitialAd.loadAd(AdRequest.Builder().build())
 
         /**
          * Banner |Ads Implementation
          */
-//        mAdView = findViewById(R.id.adView)
-//        mAdViewBelow = findViewById(R.id.adViewBelow)
+        mAdView = findViewById(R.id.adView)
 //
-//        initializeMobileAdBanner(mAppUnitId)
+        initializeMobileAdBanner(mAppUnitId)
 //
 //        //Load banner ads
-//        loadBannerAd()
+        loadBannerAd()
 
         shareVideo = findViewById(R.id.shareVideo)
 
@@ -92,45 +90,49 @@ class videoSavedFullScreen : AppCompatActivity() {
         startActivity(Intent.createChooser(intent, "Share video via..."))
     }
 
+    override fun onBackPressed() {
+        super.onBackPressed()
+        runAds()
+    }
 
-//    private fun runAds() {
-//        mInterstitialAd.adListener = object : AdListener() {
-//
-//            override fun onAdLoaded() {
-//                super.onAdLoaded()
-//                mInterstitialAd.show()
-//                if (videoView.isPlaying){
-//                    videoView.pause()
-//                }
-//            }
-//            override fun onAdClicked() {
-//                super.onAdOpened()
-//                mInterstitialAd.adListener.onAdClosed()
-//            }
-//
-//            // If user closes the ad, s/he is directed to DetailActivity.
-//            override fun onAdClosed() {
-//                if (!videoView.isPlaying){
-//                    videoView.start()
-//                }
-//            }
-//        }
-//    }
+
+    private fun runAds() {
+        mInterstitialAd.adListener = object : AdListener() {
+
+            override fun onAdLoaded() {
+                super.onAdLoaded()
+                mInterstitialAd.show()
+                if (videoView.isPlaying){
+                    videoView.pause()
+                }
+            }
+            override fun onAdClicked() {
+                super.onAdOpened()
+                mInterstitialAd.adListener.onAdClosed()
+            }
+
+            // If user closes the ad, s/he is directed to DetailActivity.
+            override fun onAdClosed() {
+                if (!videoView.isPlaying){
+                    videoView.start()
+                }
+            }
+        }
+    }
 
     /**
      * For Banner Ads
      */
-//    private fun loadBannerAd() {
-//        var adRequest = AdRequest.Builder().build()
-//        mAdView.loadAd(adRequest)
-//        mAdViewBelow.loadAd(adRequest)
-//    }
+    private fun loadBannerAd() {
+        var adRequest = AdRequest.Builder().build()
+        mAdView.loadAd(adRequest)
+    }
 
     /**
      * For banner Ads
      */
-//    private fun initializeMobileAdBanner(mAppUnitId: String) {
-//        MobileAds.initialize(this, mAppUnitId)
-//    }
+    private fun initializeMobileAdBanner(mAppUnitId: String) {
+        MobileAds.initialize(this, mAppUnitId)
+    }
     //banner ads completed
 }

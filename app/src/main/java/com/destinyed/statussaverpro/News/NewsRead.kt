@@ -11,6 +11,9 @@ import android.webkit.WebViewClient
 import android.widget.ProgressBar
 import android.widget.Toast
 import com.destinyed.statussaverpro.R
+import com.google.android.gms.ads.AdRequest
+import com.google.android.gms.ads.AdView
+import com.google.android.gms.ads.MobileAds
 import com.google.android.material.snackbar.Snackbar
 import kotlinx.android.synthetic.main.activity_news_read.*
 
@@ -20,11 +23,35 @@ class NewsRead : AppCompatActivity() {
     private lateinit var progress : ProgressBar
     private var url : String? = null
 
+    private lateinit var mAdView : AdView
+    private val mAppUnitId: String by lazy {
+
+        "ca-app-pub-4496634947416290/9785820757"
+
+        //test ads
+//        "ca-app-pub-3940256099942544/6300978111"
+    }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_news_read)
 
         window.setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN)
+
+        /**
+         * Banner ads
+         */
+        MobileAds.initialize(this,
+            "ca-app-pub-4496634947416290~5962125810")
+        /**
+         * Banner |Ads Implementation
+         */
+        mAdView = findViewById(R.id.adView)
+
+        initializeMobileAdBanner(mAppUnitId)
+
+        //Load banner ads
+        loadBannerAd()
 
         webView = findViewById(R.id.newsView)
         progress = findViewById(R.id.progressRead)
@@ -70,8 +97,19 @@ class NewsRead : AppCompatActivity() {
 
     }
 
-
-    private fun toast(message : String) {
-        Toast.makeText(baseContext, message, Toast.LENGTH_SHORT).show()
+    /**
+     * For Banner Ads
+     */
+    private fun initializeMobileAdBanner(mAppUnitId: String) {
+        MobileAds.initialize(this, mAppUnitId)
     }
+    /**
+     * For Banner Ads
+     */
+    private fun loadBannerAd() {
+        val adRequest = AdRequest.Builder().build()
+        mAdView.loadAd(adRequest)
+    }
+    //Banner implementation ends
+
 }
