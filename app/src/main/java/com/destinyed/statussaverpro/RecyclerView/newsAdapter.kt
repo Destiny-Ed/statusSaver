@@ -49,9 +49,15 @@ class newsAdapter(var ctx : Context, var arr : List<Article>) : RecyclerView.Ada
             title.text = model.title
             description.text = model.description
 
-            var dateString = model.publishedAt.substring(11, 16)
+            var dateString = model.publishedAt
 
-            date.text = dateString
+            //format the date and time
+            var mDate = dateString.substring(0, 10)
+            var mTime = dateString.substring(11, 16)
+            var realDate = "$mDate  $mTime"
+
+
+            date.text = realDate
 
             Picasso.get().load(model.urlToImage).into(image)
 
