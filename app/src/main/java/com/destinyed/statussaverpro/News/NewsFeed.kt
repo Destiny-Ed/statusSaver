@@ -2,22 +2,23 @@ package com.destinyed.statussaverpro.News
 
 import android.content.Context
 import android.os.Bundle
+import android.os.Handler
 import android.util.Log
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.LinearLayout
 import android.widget.ProgressBar
 import android.widget.Toast
+import androidx.core.view.children
+import androidx.core.view.size
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.android.volley.Request
-import com.android.volley.Response
-import com.android.volley.toolbox.StringRequest
-import com.android.volley.toolbox.Volley
 import com.destinyed.statussaverpro.Constants.Constants
 import com.destinyed.statussaverpro.R
+import com.destinyed.statussaverpro.RecyclerView.Article
 import com.destinyed.statussaverpro.RecyclerView.NewsInterface
 import com.destinyed.statussaverpro.RecyclerView.newsAdapter
 import com.destinyed.statussaverpro.RecyclerView.newsModel
@@ -29,6 +30,7 @@ import kotlinx.android.synthetic.main.fragment_news_feed.*
 import org.json.JSONObject
 import retrofit2.Call
 import retrofit2.Callback
+import retrofit2.Response
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import java.lang.Exception
@@ -39,8 +41,9 @@ class NewsFeed : Fragment() {
 
     private lateinit var newsFeedView : RecyclerView
     private lateinit var adapter : newsAdapter
+    private lateinit var layoutManager : LinearLayoutManager
 
-    private var arr = ArrayList<newsModel>()
+    private var arr = ArrayList<Article>()
 
     private lateinit var progress : ProgressBar
 
@@ -52,6 +55,10 @@ class NewsFeed : Fragment() {
         //test ads
 //        "ca-app-pub-3940256099942544/6300978111"
     }
+
+    var page = 1
+    var isLoading = false
+    var newsLimit = 10
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
@@ -78,7 +85,12 @@ class NewsFeed : Fragment() {
         progress = root.findViewById(R.id.progress)
 
         newsFeedView = root.findViewById(R.id.newsFeedView)
-        newsFeedView.layoutManager = LinearLayoutManager(context)
+
+        layoutManager = LinearLayoutManager(context)
+
+        newsFeedView.layoutManager = layoutManager
+
+        newsFeedView.setHasFixedSize(false)
 
         try {
             getNewsRetrofit(context!!)
@@ -86,6 +98,27 @@ class NewsFeed : Fragment() {
         catch (e:Exception){
             toast("Error occurred. Please try again")
         }
+
+        newsFeedView.itemAnimator
+
+//        newsFeedView.addOnScrollListener(object : RecyclerView.OnScrollListener() {
+//            override fun onScrolled(recyclerView: RecyclerView, dx: Int, dy: Int) {
+//                super.onScrolled(recyclerView, dx, dy)
+//
+//                var childCount = layoutManager.childCount
+//                var completedItem = layoutManager.findFirstCompletelyVisibleItemPosition()
+//
+//                var itemCount = adapter.itemCount
+//
+//                if (childCount + completedItem >= itemCount) {
+//
+//
+//
+//                }
+//            }
+//        })
+
+
 
 
         return root
@@ -95,108 +128,43 @@ class NewsFeed : Fragment() {
     //Retrofit Library
     private fun getNewsRetrofit(ctx : Context) {
         progress.visibility = View.VISIBLE
+
         var retrofit = Retrofit.Builder()
-                .baseUrl("http://newsapi.org")
-                .addConverterFactory(GsonConverterFactory.create())
-                .build()
+            .baseUrl("http://newsapi.org")
+            .addConverterFactory(GsonConverterFactory.create())
+            .build()
 
-        var api = retrofit.create(NewsInterface::class.java)
-        var call = api.getNews()
+        var callClient = retrofit.create(NewsInterface::class.java).getNews()
 
-        //get the response
-        call.enqueue(object : Callback<ArrayList<newsModel>> {
-            override fun onFailure(call: Call<ArrayList<newsModel>>, t: Throwable) {
+        callClient.enqueue(object : Callback<newsModel> {
+
+            override fun onFailure(call: Call<newsModel>, t: Throwable) {
                 Snackbar.make(snack, "Internet connection required. Please try again", Snackbar.LENGTH_INDEFINITE)
                     .setAction("Retry"){
                         getNewsRetrofit(ctx)
                     }.show()
-            }
-
-            override fun onResponse(call: Call<ArrayList<newsModel>>, response: retrofit2.Response<ArrayList<newsModel>>) {
-                var response = response.body()
-
-                for(i in 0 until response!!.size){
-                    var status = response[i].status
-                    var articles = response[i].articles
-                    var totalResult = response[i].totalResults
-//                    var title = res.title
-//                    var description = res.description
-//                    var url = res.url
-//                    var author = res.author
-//                    var urlToImage = res.urlToImage
-//
-//                    var datePublished = res.publishedAt
-//
-//                    //formate the date
-//                    var date = datePublished.substring(0, 10)
-//                    var time = datePublished.substring(11, 16)
-//                    var realDate = "$date  $time"
-
-                    arr.add(newsModel(status, totalResult, articles))
-                }
-
-                //add the arr to the adapter
-                adapter = newsAdapter(context!!, arr)
-                newsFeedView.adapter = adapter
-                adapter.notifyDataSetChanged()
                 progress.visibility = View.GONE
             }
 
+            override fun onResponse(call: Call<newsModel>, response: Response<newsModel>) {
+                Log.i("Response", response.body()!!.toString())
 
+
+
+                val response = response.body()!!.articles
+
+                adapter = newsAdapter(context!!, response)
+
+                newsFeedView.adapter = adapter
+                adapter.notifyDataSetChanged()
+
+                progress.visibility = View.GONE
+
+
+            }
         })
-    }
 
-//    private fun getJson(ctx : Context) {
-//        progress.visibility = View.VISIBLE
-//
-//        val queue = Volley.newRequestQueue(ctx)
-//
-//        val stringRequest = StringRequest(Request.Method.GET, Constants.jsonUrl,
-//
-//            Response.Listener { response ->
-//
-//                //Parse the json to the newsModel
-//                var jsonObject = JSONObject(response)
-//                var articles = jsonObject.getJSONArray("articles")
-//                for (i in 0 until articles.length()){
-//                    var jsonArticles = articles.getJSONObject(i)//get all string from this array
-//                    //get the name from source
-//                    var source = jsonArticles.getJSONObject("source")
-//                    var name = source.getString("name")
-//                    //get all string and parse to the arrayList<newsModel>
-//                    var title = jsonArticles.getString("title")
-//                    var description = jsonArticles.getString("description")
-//                    var url = jsonArticles.getString("url")
-//                    var urlToImage = jsonArticles.getString("urlToImage")
-//                    var datePublished = jsonArticles.getString("publishedAt")
-//
-//                    //formate the date
-//                    var date = datePublished.substring(0, 10)
-//                    var time = datePublished.substring(11, 16)
-//                    var realDate = "$date  $time"
-//
-//                    //add all string to the arrayList()
-//                    arr.add(newsModel(title, name, description, realDate, urlToImage, url))
-//                }
-//
-//                //add the arr to the adapter
-//                adapter = newsAdapter(context!!, arr)
-//                newsFeedView.adapter = adapter
-//                adapter.notifyDataSetChanged()
-//                progress.visibility = View.GONE
-//            },
-//            Response.ErrorListener {
-//                Snackbar.make(snack, "Internet connection required. Please try again", Snackbar.LENGTH_INDEFINITE)
-//                    .setAction("Retry"){
-//                        getJson(ctx)
-//                    }.show()
-//
-//            })
-//
-//        queue.add(stringRequest)
-//
-//
-//    }
+    }
 
     /**
      * For Banner Ads

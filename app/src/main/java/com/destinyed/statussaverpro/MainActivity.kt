@@ -4,6 +4,7 @@ import android.content.Intent
 import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.Handler
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.Toast
@@ -40,8 +41,16 @@ class MainActivity : AppCompatActivity() {
             override fun onNavigationItemSelected(item: MenuItem): Boolean {
                 var selectedFragment : Fragment? = null
                 when(item.itemId){
-                    R.id.wSaver -> selectedFragment = Wsaver()
-                    R.id.news -> selectedFragment = NewsFeed()
+                    R.id.wSaver -> {
+                        selectedFragment = Wsaver()
+                        item.isEnabled = false
+                        handleClick(item)
+                    }
+                    R.id.news -> {
+                        selectedFragment = NewsFeed()
+                        item.isEnabled = false
+                        handleClick(item)
+                    }
                     R.id.settings -> selectedFragment = com.destinyed.statussaverpro.Fragments.Settings()
                 }
 
@@ -65,6 +74,15 @@ class MainActivity : AppCompatActivity() {
 
 
 
+    }
+
+    private fun handleClick(selected : MenuItem) {
+
+        Handler().postDelayed({
+            //function
+            selected.isEnabled = true
+
+        }, 3000.toLong())
     }
 
     override fun onStart() {
