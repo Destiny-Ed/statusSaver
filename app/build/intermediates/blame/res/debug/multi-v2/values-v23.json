@@ -4,7 +4,7 @@
             "outputFile": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/home/destinyed/.gradle/caches/transforms-2/files-2.1/ac2b8d9dfaed17ff9a97e5dc25117614/material-1.2.0/res/values-v23/values-v23.xml",
+                    "source": "/home/destinyed/.gradle/caches/transforms-2/files-2.1/629276c68185502b61809fc963c5177b/material-1.2.1/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",
@@ -23,18 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/destinyed/.gradle/caches/transforms-2/files-2.1/d3c3b32a3eeff35c7901f3f87ca2698a/appcompat-1.2.0/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2735,2959,3074,3181,3294",
-                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
-                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
-                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2730,2954,3069,3176,3289,3519"
-                    }
-                },
-                {
-                    "source": "/home/destinyed/.gradle/caches/transforms-2/files-2.1/43dfb339e2a39f2a6d7bbdb24df1f5ef/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "source": "/home/destinyed/.gradle/caches/transforms-2/files-2.1/d5b3a1f0cc6c1f0ce8da8376137a29fb/cardview-1.0.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -50,6 +39,17 @@
                         "endLines": "52",
                         "endColumns": "12",
                         "endOffsets": "3669"
+                    }
+                },
+                {
+                    "source": "/home/destinyed/.gradle/caches/transforms-2/files-2.1/e8f239c5fad8b8a3be06fcbcd41ed7d9/appcompat-1.2.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2735,2959,3074,3181,3294",
+                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2730,2954,3069,3176,3289,3519"
                     }
                 }
             ]

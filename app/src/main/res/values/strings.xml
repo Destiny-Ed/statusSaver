@@ -3,11 +3,11 @@
 
 
 
-    <string name="App_Id">ca-app-pub-4496634947416290~5962125810</string>
+    <string name="App_Id">ca-app-pub-1700196351561262~3543187864</string>
 
-    <string name="intertitial_Ads_unitId">ca-app-pub-4496634947416290/2022880802</string>
+    <string name="intertitial_Ads_unitId">ca-app-pub-1700196351561262/3337150215</string>
 
-    <string name="banner_Ads_unitId">ca-app-pub-4496634947416290/9785820757</string>
+    <string name="banner_Ads_unitId">ca-app-pub-1700196351561262/9188899230</string>
 
     <string name="banner_test_ads">ca-app-pub-3940256099942544/6300978111</string>
 </resources>

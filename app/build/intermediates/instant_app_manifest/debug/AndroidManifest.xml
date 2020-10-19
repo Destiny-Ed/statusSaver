@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.destinyed.statussaverpro"
     android:targetSandboxVersion="2"
-    android:versionCode="1"
+    android:versionCode="10"
     android:versionName="1.0" >
 
     <uses-sdk
@@ -79,6 +79,11 @@
             android:authorities="com.destinyed.statussaverpro.mobileadsinitprovider"
             android:exported="false"
             android:initOrder="100" />
+
+        <service
+            android:name="com.google.android.gms.ads.AdService"
+            android:enabled="true"
+            android:exported="false" />
 
         <meta-data
             android:name="com.google.android.gms.version"

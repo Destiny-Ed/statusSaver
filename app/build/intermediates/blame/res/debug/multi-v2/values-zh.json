@@ -4,7 +4,7 @@
             "outputFile": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
             "map": [
                 {
-                    "source": "/home/destinyed/.gradle/caches/transforms-2/files-2.1/db0181b166e94fd1cd9dbdefdfd962bb/jetified-android-rate-1.0.1/res/values-zh/values-zh.xml",
+                    "source": "/home/destinyed/.gradle/caches/transforms-2/files-2.1/c3e5cc47a6b54a39fa60decc5f6420a0/jetified-android-rate-1.0.1/res/values-zh/values-zh.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "4,4,4,4,4",

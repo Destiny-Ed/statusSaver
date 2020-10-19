@@ -25,7 +25,8 @@ class ImageFullScreen : AppCompatActivity() {
     private lateinit var mAdView : AdView
     private val mAppUnitId: String by lazy {
 
-        "ca-app-pub-4496634947416290/9785820757"
+        "ca-app-pub-1700196351561262/9188899230"
+
 
         //test ads
 //        "ca-app-pub-3940256099942544/6300978111"
@@ -51,10 +52,9 @@ class ImageFullScreen : AppCompatActivity() {
         /**
          *InterstitialAds Implementation
          */
-        MobileAds.initialize(this,
-            "ca-app-pub-4496634947416290~5962125810")
+        MobileAds.initialize(this)
         mInterstitialAd = InterstitialAd(this)
-        mInterstitialAd.adUnitId = "ca-app-pub-4496634947416290/2022880802"
+        mInterstitialAd.adUnitId = "ca-app-pub-1700196351561262/3337150215"
         mInterstitialAd.loadAd(AdRequest.Builder().build())
 
 
@@ -166,14 +166,14 @@ class ImageFullScreen : AppCompatActivity() {
     //Banner implementation ends
 
     private fun downloadImage() {
-        var AppDir = ConstantsVariables.AppDirImage
+        val AppDir = ConstantsVariables.AppDirImage
         if (!AppDir.exists()){
             AppDir.mkdirs()
         }
 
         try {
-            var file = File(AppDir, imageTitle)
-            var out = FileOutputStream(file)
+            val file = File(AppDir, imageTitle!!)
+            val out = FileOutputStream(file)
 
             bitmap.compress(Bitmap.CompressFormat.PNG, 100, out)
             Toast.makeText(this, "Saved Successfully", Toast.LENGTH_SHORT).show()

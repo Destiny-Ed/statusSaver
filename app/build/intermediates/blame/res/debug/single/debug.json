@@ -1,23 +1,23 @@
 [
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_pro.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-hdpi/pro.png"
-    },
-    {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/activity_splash.xml"
     },
     {
         "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
         "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/activity_splash.xml"
+        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_pro.png.flat",
+        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-hdpi/pro.png"
     },
     {
         "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_status_layout.xml.flat",

@@ -26,7 +26,7 @@ class NewsRead : AppCompatActivity() {
     private lateinit var mAdView : AdView
     private val mAppUnitId: String by lazy {
 
-        "ca-app-pub-4496634947416290/9785820757"
+        "ca-app-pub-1700196351561262/9188899230"
 
         //test ads
 //        "ca-app-pub-3940256099942544/6300978111"
@@ -36,13 +36,12 @@ class NewsRead : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_news_read)
 
-        window.setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN)
+//        window.setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN)
 
         /**
          * Banner ads
          */
-        MobileAds.initialize(this,
-            "ca-app-pub-4496634947416290~5962125810")
+        MobileAds.initialize(this)
         /**
          * Banner |Ads Implementation
          */

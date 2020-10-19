@@ -4,59 +4,59 @@ ADDED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/Androi
 INJECTED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml:2:1-56:12
 INJECTED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml:2:1-56:12
 INJECTED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml:2:1-56:12
-MERGED from [androidx.multidex:multidex:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/240b6bfd0a66e34e574f593481b1048d/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6686047a1b0c6a68e22bda4771d9caa4/constraintlayout-2.0.0/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.android.material:material:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ac2b8d9dfaed17ff9a97e5dc25117614/material-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d3c3b32a3eeff35c7901f3f87ca2698a/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core-ktx:1.3.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9a0072d8e5ca01a35d969079193a2cae/jetified-core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/89baa81f6d62bcc05b31628530a951bf/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/afb1f33d4d462a80450a934bebb6b9b0/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
-MERGED from [com.google.android.gms:play-services-ads:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/b9169b8d947d103f62181e238e36575d/jetified-play-services-ads-19.3.0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.github.hotchemi:android-rate:1.0.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/db0181b166e94fd1cd9dbdefdfd962bb/jetified-android-rate-1.0.1/AndroidManifest.xml:2:1-12:12
-MERGED from [androidx.browser:browser:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/035870b5b9e3ba881893fa850ed826a9/browser-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c30866a4935984ccaf7e66af38b227e4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/0052b7762c5686847cff0c908590c58e/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/e66dd24d366b9223f16cac8e7638bc77/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-gass:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/107aa623314c42700a6bcf59cd8d3850/jetified-play-services-gass-19.3.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/cc415cd982b1257e2a0e6b2453c0d026/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:17:1-42:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c43e29bf13b61bdda7a1999e0cf2d355/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5c2058fb72a26010f441e23ecfc8d829/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/321557463c91a0b4213c0a6f48aac586/jetified-play-services-measurement-base-17.1.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d14ffd33cdd5d9d526a4986448a5595a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.fragment:fragment:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/845a007ac95589f98ecc9bc2428ab76f/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/1fad73ee74d73483d3e7f5ba5ab35165/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/260d99d1eee9aa885f774d9d75f65e1a/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ac309fe7127ba7c1c75c5f8f2c493247/media-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/8e936602855cdd7ecb8687df55b52033/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5ee11aa6eb8601c940602c2717dd7d01/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/342aefd5df821e68266385a4c9807417/transition-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c466a4bf1291f4a38294f7a5de0ae07b/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/e12a43bbedd4c8abae7658b5a330c7ed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a7a7be95ffdd8a3d092d1be04b059118/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6bac4b4d4c88c14bceafe335957b5104/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ac24102207b995498d0be77ac4e9fba4/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fda50d1ec790eac40c791a34f51a4c9f/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/bb088c4f7123812ef31dfafdd49a9b46/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5c3ec994fdbba7fef11871c0d348bc06/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5afb1eda5b10ba9f33ce0565a2c434a7/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ff5b67ab4f85b3f03d1c7b7766d4f34e/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.3.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/dfdfc768281fe286d50a0e2561b88fa6/core-1.3.1/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cardview:cardview:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/43dfb339e2a39f2a6d7bbdb24df1f5ef/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/1321293d850f90f953b9139362464941/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7d267a4bedfbc53a36b9df9201a8d2c7/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/df3e4b09dffb314317f23f7f7a99c9f2/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/547d7af2eaeabfe1168f6a23b4ab94e6/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/17e372d8be318326d592ef0f35cf8bd8/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5961cf97f3fe1eca91ee3b401bab3ce1/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/bfbc4a7cd2c5367ba888e37951877d56/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/b4136dc177b4d3a1f88126ac46c47eeb/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/0d24f80e6fbacd62e8c950febd809192/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a22b08a1254aadafd59b5332ae7f33ee/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/b7758ec6f230bbb7aa2e3c9a0db839c0/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f01559b4074d91de96a6d439f69ec5a3/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5b43bcc536f53bcfe528de83d93c985c/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-ads-base:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/443b7aead2bd8635f42a4a23d08945f8/jetified-play-services-ads-base-19.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/4c0a0a7d9dcae7352e4729df090fa095/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /home/destinyed/.gradle/caches/transforms-2/files-2.1/e8840ee1e100a559b32ca349abe4d0c9/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/629276c68185502b61809fc963c5177b/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/e8f239c5fad8b8a3be06fcbcd41ed7d9/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5ad1c9b1dc3ae67218545b6a1e1b4c3e/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6b3eefae025d70b175cb884d07916400/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fa92cdeac285ab6f12053245a148114b/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/21845517e78fc18f6398cd69e9353309/jetified-play-services-ads-19.4.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.hotchemi:android-rate:1.0.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c3e5cc47a6b54a39fa60decc5f6420a0/jetified-android-rate-1.0.1/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.browser:browser:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/431f83ecc4dc619fcc2972dbc11dac10/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9f4b9e483cd87cbf78686e0ab019109f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d22d70546a179fdb0df791383394dcea/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/0e5699576d46407c1525a09110cd8ac1/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7aedf8c544044d77ac6cc4dfd377919a/jetified-play-services-gass-19.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/45ec600442f463751ad52b8841ccbf2b/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9077493dbe96304bb4acd0abe6a36253/jetified-play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7d24cdf468f73bfe537294782414eeea/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fc5ae55611845626489320850e208297/jetified-play-services-measurement-base-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d77ce2f2fb4699a15187f475ba214f0c/jetified-play-services-basement-17.3.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/be7d755e3fa8bfe0b965daf6565ac47b/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/57542944f8016c92ec4511767510b0bc/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/8293746e2923442ca280e33788bc5ac4/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ef244cf7e029c17bab828cc2c6dadf7c/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/0ca7861e6cf5d4629510851ac94b264a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/8bc1d879be500b89f519aa8da2c7e638/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6050c47baf90424305346f951f1e04c5/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ebd45414f149ac00168ef6f93b4dec8a/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ffc61e417d55e165be0b434357532704/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a4b90ed93942e44e79b6ed0267b60325/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a29514e9a1ef8883ef8ab0b34dfa1fc0/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6bd51a81f56a281f5b239b2c9f9e22f8/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/10dd7fe091f4e17586dae7d4b118a541/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d9efb9faa83cc2dc49ec711c82ebaebc/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/4eda2243cacff8e16fa41f9565fad56a/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/2a68171de842c2578c5f688b58236094/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/362f834d7a581a2ec79e1b74c4986b62/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7d55a00ecb9d1e34a5dcb6a4af540968/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d5b3a1f0cc6c1f0ce8da8376137a29fb/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5687f3446074331aa231380c907d1c1e/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a4d553ee68c650a3c8e1a34458c79c58/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f3c2dfd07082b0a7619ad2de3b70322d/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/da2ad2656744f4d886ece5e566679662/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/cc5dd73a1bb25825d2b1b42d7dc17085/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/93ebcad745642a950e91f8aedafba5ac/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/cb0abc63184d0bddc5fd7cccaabb0838/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9c8e3101d4d8938bce626387271591c2/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/447e74ff5c6950e77b7fe26849b5a8b1/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d83e1864502babb2541178f25069d5b3/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/de6593c2b3f52288084f723843c29d7b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/24ac92faffc731db4349d9e19e6c987e/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/0a434e1bdf7457b348098104682bd2a9/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a8a861e33a7dcfef01b6a1e6da024738/jetified-play-services-ads-base-19.4.0/AndroidManifest.xml:2:1-9:12
 INJECTED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml:2:1-56:12
 INJECTED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml:2:1-56:12
 INJECTED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml:2:1-56:12
@@ -84,44 +84,44 @@ ADDED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/Androi
 		ADDED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml:6:22-78
 uses-permission#android.permission.INTERNET
 ADDED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml:7:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c43e29bf13b61bdda7a1999e0cf2d355/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c43e29bf13b61bdda7a1999e0cf2d355/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9077493dbe96304bb4acd0abe6a36253/jetified-play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9077493dbe96304bb4acd0abe6a36253/jetified-play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml:7:22-64
 application
 ADDED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml:9:5-54:19
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6686047a1b0c6a68e22bda4771d9caa4/constraintlayout-2.0.0/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6686047a1b0c6a68e22bda4771d9caa4/constraintlayout-2.0.0/AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.material:material:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ac2b8d9dfaed17ff9a97e5dc25117614/material-1.2.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ac2b8d9dfaed17ff9a97e5dc25117614/material-1.2.0/AndroidManifest.xml:22:5-20
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/afb1f33d4d462a80450a934bebb6b9b0/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/afb1f33d4d462a80450a934bebb6b9b0/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
-MERGED from [com.github.hotchemi:android-rate:1.0.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/db0181b166e94fd1cd9dbdefdfd962bb/jetified-android-rate-1.0.1/AndroidManifest.xml:10:5-20
-MERGED from [com.github.hotchemi:android-rate:1.0.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/db0181b166e94fd1cd9dbdefdfd962bb/jetified-android-rate-1.0.1/AndroidManifest.xml:10:5-20
-MERGED from [com.google.android.gms:play-services-gass:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/107aa623314c42700a6bcf59cd8d3850/jetified-play-services-gass-19.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-gass:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/107aa623314c42700a6bcf59cd8d3850/jetified-play-services-gass-19.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/cc415cd982b1257e2a0e6b2453c0d026/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/cc415cd982b1257e2a0e6b2453c0d026/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:26:5-40:19
-MERGED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:26:5-40:19
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5c2058fb72a26010f441e23ecfc8d829/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5c2058fb72a26010f441e23ecfc8d829/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/321557463c91a0b4213c0a6f48aac586/jetified-play-services-measurement-base-17.1.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/321557463c91a0b4213c0a6f48aac586/jetified-play-services-measurement-base-17.1.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d14ffd33cdd5d9d526a4986448a5595a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d14ffd33cdd5d9d526a4986448a5595a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.3.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/dfdfc768281fe286d50a0e2561b88fa6/core-1.3.1/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.3.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/dfdfc768281fe286d50a0e2561b88fa6/core-1.3.1/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7d267a4bedfbc53a36b9df9201a8d2c7/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7d267a4bedfbc53a36b9df9201a8d2c7/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [com.google.android.gms:play-services-ads-base:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/443b7aead2bd8635f42a4a23d08945f8/jetified-play-services-ads-base-19.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-base:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/443b7aead2bd8635f42a4a23d08945f8/jetified-play-services-ads-base-19.3.0/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /home/destinyed/.gradle/caches/transforms-2/files-2.1/e8840ee1e100a559b32ca349abe4d0c9/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /home/destinyed/.gradle/caches/transforms-2/files-2.1/e8840ee1e100a559b32ca349abe4d0c9/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/629276c68185502b61809fc963c5177b/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/629276c68185502b61809fc963c5177b/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fa92cdeac285ab6f12053245a148114b/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fa92cdeac285ab6f12053245a148114b/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.github.hotchemi:android-rate:1.0.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c3e5cc47a6b54a39fa60decc5f6420a0/jetified-android-rate-1.0.1/AndroidManifest.xml:10:5-20
+MERGED from [com.github.hotchemi:android-rate:1.0.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c3e5cc47a6b54a39fa60decc5f6420a0/jetified-android-rate-1.0.1/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7aedf8c544044d77ac6cc4dfd377919a/jetified-play-services-gass-19.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7aedf8c544044d77ac6cc4dfd377919a/jetified-play-services-gass-19.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/45ec600442f463751ad52b8841ccbf2b/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/45ec600442f463751ad52b8841ccbf2b/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7d24cdf468f73bfe537294782414eeea/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7d24cdf468f73bfe537294782414eeea/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fc5ae55611845626489320850e208297/jetified-play-services-measurement-base-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fc5ae55611845626489320850e208297/jetified-play-services-measurement-base-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d77ce2f2fb4699a15187f475ba214f0c/jetified-play-services-basement-17.3.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d77ce2f2fb4699a15187f475ba214f0c/jetified-play-services-basement-17.3.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7d55a00ecb9d1e34a5dcb6a4af540968/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7d55a00ecb9d1e34a5dcb6a4af540968/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a4d553ee68c650a3c8e1a34458c79c58/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a4d553ee68c650a3c8e1a34458c79c58/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a8a861e33a7dcfef01b6a1e6da024738/jetified-play-services-ads-base-19.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a8a861e33a7dcfef01b6a1e6da024738/jetified-play-services-ads-base-19.4.0/AndroidManifest.xml:7:5-20
 	android:requestLegacyExternalStorage
 		ADDED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml:16:9-52
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.3.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/dfdfc768281fe286d50a0e2561b88fa6/core-1.3.1/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.3.2] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7d55a00ecb9d1e34a5dcb6a4af540968/core-1.3.2/AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml:14:9-35
 	android:label
@@ -198,116 +198,116 @@ uses-sdk
 INJECTED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml
 INJECTED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml
-MERGED from [androidx.multidex:multidex:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/240b6bfd0a66e34e574f593481b1048d/multidex-2.0.0/AndroidManifest.xml:20:5-43
-MERGED from [androidx.multidex:multidex:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/240b6bfd0a66e34e574f593481b1048d/multidex-2.0.0/AndroidManifest.xml:20:5-43
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6686047a1b0c6a68e22bda4771d9caa4/constraintlayout-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6686047a1b0c6a68e22bda4771d9caa4/constraintlayout-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.material:material:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ac2b8d9dfaed17ff9a97e5dc25117614/material-1.2.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ac2b8d9dfaed17ff9a97e5dc25117614/material-1.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d3c3b32a3eeff35c7901f3f87ca2698a/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d3c3b32a3eeff35c7901f3f87ca2698a/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core-ktx:1.3.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9a0072d8e5ca01a35d969079193a2cae/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.3.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9a0072d8e5ca01a35d969079193a2cae/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/89baa81f6d62bcc05b31628530a951bf/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/89baa81f6d62bcc05b31628530a951bf/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/afb1f33d4d462a80450a934bebb6b9b0/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/afb1f33d4d462a80450a934bebb6b9b0/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/b9169b8d947d103f62181e238e36575d/jetified-play-services-ads-19.3.0/AndroidManifest.xml:21:5-23:52
-MERGED from [com.google.android.gms:play-services-ads:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/b9169b8d947d103f62181e238e36575d/jetified-play-services-ads-19.3.0/AndroidManifest.xml:21:5-23:52
-MERGED from [com.github.hotchemi:android-rate:1.0.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/db0181b166e94fd1cd9dbdefdfd962bb/jetified-android-rate-1.0.1/AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.hotchemi:android-rate:1.0.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/db0181b166e94fd1cd9dbdefdfd962bb/jetified-android-rate-1.0.1/AndroidManifest.xml:6:5-8:41
-MERGED from [androidx.browser:browser:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/035870b5b9e3ba881893fa850ed826a9/browser-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.browser:browser:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/035870b5b9e3ba881893fa850ed826a9/browser-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c30866a4935984ccaf7e66af38b227e4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c30866a4935984ccaf7e66af38b227e4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/0052b7762c5686847cff0c908590c58e/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/0052b7762c5686847cff0c908590c58e/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/e66dd24d366b9223f16cac8e7638bc77/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/e66dd24d366b9223f16cac8e7638bc77/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-gass:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/107aa623314c42700a6bcf59cd8d3850/jetified-play-services-gass-19.3.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-gass:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/107aa623314c42700a6bcf59cd8d3850/jetified-play-services-gass-19.3.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/cc415cd982b1257e2a0e6b2453c0d026/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/cc415cd982b1257e2a0e6b2453c0d026/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c43e29bf13b61bdda7a1999e0cf2d355/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c43e29bf13b61bdda7a1999e0cf2d355/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5c2058fb72a26010f441e23ecfc8d829/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5c2058fb72a26010f441e23ecfc8d829/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/321557463c91a0b4213c0a6f48aac586/jetified-play-services-measurement-base-17.1.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/321557463c91a0b4213c0a6f48aac586/jetified-play-services-measurement-base-17.1.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d14ffd33cdd5d9d526a4986448a5595a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d14ffd33cdd5d9d526a4986448a5595a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/845a007ac95589f98ecc9bc2428ab76f/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/845a007ac95589f98ecc9bc2428ab76f/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/1fad73ee74d73483d3e7f5ba5ab35165/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/1fad73ee74d73483d3e7f5ba5ab35165/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/260d99d1eee9aa885f774d9d75f65e1a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/260d99d1eee9aa885f774d9d75f65e1a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ac309fe7127ba7c1c75c5f8f2c493247/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ac309fe7127ba7c1c75c5f8f2c493247/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/8e936602855cdd7ecb8687df55b52033/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/8e936602855cdd7ecb8687df55b52033/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5ee11aa6eb8601c940602c2717dd7d01/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5ee11aa6eb8601c940602c2717dd7d01/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/342aefd5df821e68266385a4c9807417/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/342aefd5df821e68266385a4c9807417/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c466a4bf1291f4a38294f7a5de0ae07b/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c466a4bf1291f4a38294f7a5de0ae07b/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/e12a43bbedd4c8abae7658b5a330c7ed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/e12a43bbedd4c8abae7658b5a330c7ed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a7a7be95ffdd8a3d092d1be04b059118/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a7a7be95ffdd8a3d092d1be04b059118/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6bac4b4d4c88c14bceafe335957b5104/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6bac4b4d4c88c14bceafe335957b5104/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ac24102207b995498d0be77ac4e9fba4/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ac24102207b995498d0be77ac4e9fba4/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fda50d1ec790eac40c791a34f51a4c9f/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fda50d1ec790eac40c791a34f51a4c9f/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/bb088c4f7123812ef31dfafdd49a9b46/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/bb088c4f7123812ef31dfafdd49a9b46/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5c3ec994fdbba7fef11871c0d348bc06/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5c3ec994fdbba7fef11871c0d348bc06/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5afb1eda5b10ba9f33ce0565a2c434a7/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5afb1eda5b10ba9f33ce0565a2c434a7/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ff5b67ab4f85b3f03d1c7b7766d4f34e/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ff5b67ab4f85b3f03d1c7b7766d4f34e/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.3.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/dfdfc768281fe286d50a0e2561b88fa6/core-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/dfdfc768281fe286d50a0e2561b88fa6/core-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/43dfb339e2a39f2a6d7bbdb24df1f5ef/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/43dfb339e2a39f2a6d7bbdb24df1f5ef/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/1321293d850f90f953b9139362464941/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/1321293d850f90f953b9139362464941/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7d267a4bedfbc53a36b9df9201a8d2c7/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7d267a4bedfbc53a36b9df9201a8d2c7/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/df3e4b09dffb314317f23f7f7a99c9f2/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/df3e4b09dffb314317f23f7f7a99c9f2/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/547d7af2eaeabfe1168f6a23b4ab94e6/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/547d7af2eaeabfe1168f6a23b4ab94e6/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/17e372d8be318326d592ef0f35cf8bd8/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/17e372d8be318326d592ef0f35cf8bd8/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5961cf97f3fe1eca91ee3b401bab3ce1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5961cf97f3fe1eca91ee3b401bab3ce1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/bfbc4a7cd2c5367ba888e37951877d56/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/bfbc4a7cd2c5367ba888e37951877d56/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/b4136dc177b4d3a1f88126ac46c47eeb/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/b4136dc177b4d3a1f88126ac46c47eeb/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/0d24f80e6fbacd62e8c950febd809192/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/0d24f80e6fbacd62e8c950febd809192/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a22b08a1254aadafd59b5332ae7f33ee/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a22b08a1254aadafd59b5332ae7f33ee/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/b7758ec6f230bbb7aa2e3c9a0db839c0/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/b7758ec6f230bbb7aa2e3c9a0db839c0/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f01559b4074d91de96a6d439f69ec5a3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f01559b4074d91de96a6d439f69ec5a3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5b43bcc536f53bcfe528de83d93c985c/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5b43bcc536f53bcfe528de83d93c985c/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-ads-base:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/443b7aead2bd8635f42a4a23d08945f8/jetified-play-services-ads-base-19.3.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/443b7aead2bd8635f42a4a23d08945f8/jetified-play-services-ads-base-19.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/4c0a0a7d9dcae7352e4729df090fa095/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/4c0a0a7d9dcae7352e4729df090fa095/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /home/destinyed/.gradle/caches/transforms-2/files-2.1/e8840ee1e100a559b32ca349abe4d0c9/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /home/destinyed/.gradle/caches/transforms-2/files-2.1/e8840ee1e100a559b32ca349abe4d0c9/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/629276c68185502b61809fc963c5177b/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/629276c68185502b61809fc963c5177b/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/e8f239c5fad8b8a3be06fcbcd41ed7d9/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/e8f239c5fad8b8a3be06fcbcd41ed7d9/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5ad1c9b1dc3ae67218545b6a1e1b4c3e/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5ad1c9b1dc3ae67218545b6a1e1b4c3e/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6b3eefae025d70b175cb884d07916400/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6b3eefae025d70b175cb884d07916400/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fa92cdeac285ab6f12053245a148114b/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fa92cdeac285ab6f12053245a148114b/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/21845517e78fc18f6398cd69e9353309/jetified-play-services-ads-19.4.0/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/21845517e78fc18f6398cd69e9353309/jetified-play-services-ads-19.4.0/AndroidManifest.xml:21:5-23:52
+MERGED from [com.github.hotchemi:android-rate:1.0.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c3e5cc47a6b54a39fa60decc5f6420a0/jetified-android-rate-1.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.hotchemi:android-rate:1.0.1] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c3e5cc47a6b54a39fa60decc5f6420a0/jetified-android-rate-1.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.browser:browser:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/431f83ecc4dc619fcc2972dbc11dac10/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/431f83ecc4dc619fcc2972dbc11dac10/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9f4b9e483cd87cbf78686e0ab019109f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9f4b9e483cd87cbf78686e0ab019109f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d22d70546a179fdb0df791383394dcea/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d22d70546a179fdb0df791383394dcea/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/0e5699576d46407c1525a09110cd8ac1/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/0e5699576d46407c1525a09110cd8ac1/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7aedf8c544044d77ac6cc4dfd377919a/jetified-play-services-gass-19.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7aedf8c544044d77ac6cc4dfd377919a/jetified-play-services-gass-19.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/45ec600442f463751ad52b8841ccbf2b/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/45ec600442f463751ad52b8841ccbf2b/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9077493dbe96304bb4acd0abe6a36253/jetified-play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9077493dbe96304bb4acd0abe6a36253/jetified-play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7d24cdf468f73bfe537294782414eeea/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7d24cdf468f73bfe537294782414eeea/jetified-play-services-tasks-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fc5ae55611845626489320850e208297/jetified-play-services-measurement-base-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fc5ae55611845626489320850e208297/jetified-play-services-measurement-base-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d77ce2f2fb4699a15187f475ba214f0c/jetified-play-services-basement-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d77ce2f2fb4699a15187f475ba214f0c/jetified-play-services-basement-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/be7d755e3fa8bfe0b965daf6565ac47b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/be7d755e3fa8bfe0b965daf6565ac47b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/57542944f8016c92ec4511767510b0bc/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/57542944f8016c92ec4511767510b0bc/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/8293746e2923442ca280e33788bc5ac4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/8293746e2923442ca280e33788bc5ac4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ef244cf7e029c17bab828cc2c6dadf7c/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ef244cf7e029c17bab828cc2c6dadf7c/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/0ca7861e6cf5d4629510851ac94b264a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/0ca7861e6cf5d4629510851ac94b264a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/8bc1d879be500b89f519aa8da2c7e638/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/8bc1d879be500b89f519aa8da2c7e638/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6050c47baf90424305346f951f1e04c5/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6050c47baf90424305346f951f1e04c5/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ebd45414f149ac00168ef6f93b4dec8a/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ebd45414f149ac00168ef6f93b4dec8a/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ffc61e417d55e165be0b434357532704/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/ffc61e417d55e165be0b434357532704/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a4b90ed93942e44e79b6ed0267b60325/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a4b90ed93942e44e79b6ed0267b60325/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a29514e9a1ef8883ef8ab0b34dfa1fc0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a29514e9a1ef8883ef8ab0b34dfa1fc0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6bd51a81f56a281f5b239b2c9f9e22f8/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/6bd51a81f56a281f5b239b2c9f9e22f8/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/10dd7fe091f4e17586dae7d4b118a541/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/10dd7fe091f4e17586dae7d4b118a541/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d9efb9faa83cc2dc49ec711c82ebaebc/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d9efb9faa83cc2dc49ec711c82ebaebc/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/4eda2243cacff8e16fa41f9565fad56a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/4eda2243cacff8e16fa41f9565fad56a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/2a68171de842c2578c5f688b58236094/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/2a68171de842c2578c5f688b58236094/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/362f834d7a581a2ec79e1b74c4986b62/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/362f834d7a581a2ec79e1b74c4986b62/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7d55a00ecb9d1e34a5dcb6a4af540968/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/destinyed/.gradle/caches/transforms-2/files-2.1/7d55a00ecb9d1e34a5dcb6a4af540968/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d5b3a1f0cc6c1f0ce8da8376137a29fb/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d5b3a1f0cc6c1f0ce8da8376137a29fb/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5687f3446074331aa231380c907d1c1e/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/5687f3446074331aa231380c907d1c1e/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a4d553ee68c650a3c8e1a34458c79c58/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a4d553ee68c650a3c8e1a34458c79c58/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f3c2dfd07082b0a7619ad2de3b70322d/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f3c2dfd07082b0a7619ad2de3b70322d/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/da2ad2656744f4d886ece5e566679662/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/da2ad2656744f4d886ece5e566679662/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/cc5dd73a1bb25825d2b1b42d7dc17085/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/cc5dd73a1bb25825d2b1b42d7dc17085/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/93ebcad745642a950e91f8aedafba5ac/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/93ebcad745642a950e91f8aedafba5ac/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/cb0abc63184d0bddc5fd7cccaabb0838/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/cb0abc63184d0bddc5fd7cccaabb0838/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9c8e3101d4d8938bce626387271591c2/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9c8e3101d4d8938bce626387271591c2/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/447e74ff5c6950e77b7fe26849b5a8b1/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/447e74ff5c6950e77b7fe26849b5a8b1/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d83e1864502babb2541178f25069d5b3/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d83e1864502babb2541178f25069d5b3/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/de6593c2b3f52288084f723843c29d7b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/de6593c2b3f52288084f723843c29d7b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/24ac92faffc731db4349d9e19e6c987e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/24ac92faffc731db4349d9e19e6c987e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/0a434e1bdf7457b348098104682bd2a9/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/0a434e1bdf7457b348098104682bd2a9/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a8a861e33a7dcfef01b6a1e6da024738/jetified-play-services-ads-base-19.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/a8a861e33a7dcfef01b6a1e6da024738/jetified-play-services-ads-base-19.4.0/AndroidManifest.xml:5:5-44
 INJECTED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml
 INJECTED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.google.android.gms:play-services-ads:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/b9169b8d947d103f62181e238e36575d/jetified-play-services-ads-19.3.0/AndroidManifest.xml:23:9-49
+		ADDED from [com.google.android.gms:play-services-ads:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/21845517e78fc18f6398cd69e9353309/jetified-play-services-ads-19.4.0/AndroidManifest.xml:23:9-49
 	android:targetSdkVersion
 		INJECTED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml
 		ADDED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml
@@ -317,46 +317,54 @@ INJECTED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/And
 		ADDED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml
 		INJECTED from /home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/AndroidManifest.xml
 provider#com.squareup.picasso.PicassoProvider
-ADDED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/afb1f33d4d462a80450a934bebb6b9b0/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+ADDED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fa92cdeac285ab6f12053245a148114b/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
 	android:authorities
-		ADDED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/afb1f33d4d462a80450a934bebb6b9b0/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fa92cdeac285ab6f12053245a148114b/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
 	android:exported
-		ADDED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/afb1f33d4d462a80450a934bebb6b9b0/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fa92cdeac285ab6f12053245a148114b/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/afb1f33d4d462a80450a934bebb6b9b0/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+		ADDED from [com.squareup.picasso:picasso:2.71828] /home/destinyed/.gradle/caches/transforms-2/files-2.1/fa92cdeac285ab6f12053245a148114b/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c43e29bf13b61bdda7a1999e0cf2d355/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c43e29bf13b61bdda7a1999e0cf2d355/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:24:5-79
+ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9077493dbe96304bb4acd0abe6a36253/jetified-play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9077493dbe96304bb4acd0abe6a36253/jetified-play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:24:22-76
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:24:22-76
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:29:9-33:64
+ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:29:9-33:64
 	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:32:13-37
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:31:13-122
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:31:13-122
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:33:13-61
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:33:13-61
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:30:13-65
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:30:13-65
 provider#com.google.android.gms.ads.MobileAdsInitProvider
-ADDED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:35:9-39:39
+ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:35:9-39:39
 	android:authorities
-		ADDED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:37:13-73
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:37:13-73
 	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:38:13-37
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:38:13-37
 	android:initOrder
-		ADDED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:39:13-36
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:39:13-36
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:19.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/f5c786cbc2452a892ec070dc1b2013d9/jetified-play-services-ads-lite-19.3.0/AndroidManifest.xml:36:13-76
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:36:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:41:9-44:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/041691109686682dd8dae38738639ef9/jetified-play-services-ads-lite-19.4.0/AndroidManifest.xml:42:13-64
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c43e29bf13b61bdda7a1999e0cf2d355/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:25:5-68
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9077493dbe96304bb4acd0abe6a36253/jetified-play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/c43e29bf13b61bdda7a1999e0cf2d355/jetified-play-services-measurement-sdk-api-17.1.0/AndroidManifest.xml:25:22-65
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/9077493dbe96304bb4acd0abe6a36253/jetified-play-services-measurement-sdk-api-17.2.0/AndroidManifest.xml:25:22-65
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d14ffd33cdd5d9d526a4986448a5595a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d77ce2f2fb4699a15187f475ba214f0c/jetified-play-services-basement-17.3.0/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d14ffd33cdd5d9d526a4986448a5595a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d77ce2f2fb4699a15187f475ba214f0c/jetified-play-services-basement-17.3.0/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d14ffd33cdd5d9d526a4986448a5595a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:17.3.0] /home/destinyed/.gradle/caches/transforms-2/files-2.1/d77ce2f2fb4699a15187f475ba214f0c/jetified-play-services-basement-17.3.0/AndroidManifest.xml:24:13-58

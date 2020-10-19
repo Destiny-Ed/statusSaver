@@ -87,7 +87,7 @@
         <enum name="spread_inside" value="1"/>
         <enum name="packed" value="2"/>
     </attr>
-    <attr format="float" name="flow_horizontalAlign">
+    <attr format="enum" name="flow_horizontalAlign">
         <enum name="start" value="0"/>
         <enum name="end" value="1"/>
         <enum name="center" value="2"/>
@@ -246,7 +246,7 @@
     <attr format="dimension" name="layout_goneMarginTop"/>
     <attr name="layout_optimizationLevel">
         <flag name="none" value="0"/>
-        <flag name="standard" value="7"/> 
+        <flag name="standard" value="257"/> 
         <flag name="direct" value="1"/>
         <flag name="barrier" value="2"/>
         <flag name="chains" value="4"/>
@@ -255,6 +255,9 @@
         <flag name="groups" value="32"/>
         <flag name="graph" value="64"/>
         <flag name="graph_wrap" value="128"/>
+        <flag name="cache_measures" value="256"/>
+        <flag name="dependency_ordering" value="512"/>
+        <flag name="grouping" value="1024"/>
     </attr>
     <attr format="reference" name="materialButtonOutlinedStyle"/>
     <attr format="reference" name="materialButtonStyle"/>
@@ -951,7 +954,7 @@
     <item quantity="one"><ns1:g id="count">%d</ns1:g> new notification</item>
     <item quantity="other"><ns1:g id="count">%d</ns1:g> new notifications</item>
   </plurals>
-    <string name="App_Id">ca-app-pub-4496634947416290~5962125810</string>
+    <string name="App_Id">ca-app-pub-1700196351561262~3543187864</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">More options</string>
@@ -981,7 +984,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">Status Saver Pro</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="banner_Ads_unitId">ca-app-pub-4496634947416290/9785820757</string>
+    <string name="banner_Ads_unitId">ca-app-pub-1700196351561262/9188899230</string>
     <string name="banner_test_ads">ca-app-pub-3940256099942544/6300978111</string>
     <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
@@ -996,7 +999,7 @@
     <string name="fab_transformation_sheet_behavior" translatable="false">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string description="Content description for an icon that appears in the title area of a dialog" name="icon_content_description">Dialog Icon</string>
-    <string name="intertitial_Ads_unitId">ca-app-pub-4496634947416290/2022880802</string>
+    <string name="intertitial_Ads_unitId">ca-app-pub-1700196351561262/3337150215</string>
     <string name="item_view_role_description">Tab</string>
     <string description="Content description for the thumb with the maximum value in a Range slider. [CHAR_LIMIT=NONE]" name="material_slider_range_end">Range end, </string>
     <string description="Content description for the thumb with the minimum value in a Range slider. [CHAR_LIMIT=NONE]" name="material_slider_range_start">Range start, </string>
@@ -6564,6 +6567,8 @@
     <attr name="android:valueFrom"/>
     <attr name="android:valueTo"/>
     <attr name="android:stepSize"/>
+    
+    <attr name="android:enabled"/>
     
     <attr format="color" name="haloColor"/>
     

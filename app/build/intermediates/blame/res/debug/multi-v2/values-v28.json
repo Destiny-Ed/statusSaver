@@ -4,7 +4,17 @@
             "outputFile": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "/home/destinyed/.gradle/caches/transforms-2/files-2.1/d3c3b32a3eeff35c7901f3f87ca2698a/appcompat-1.2.0/res/values-v28/values-v28.xml",
+                    "source": "/home/destinyed/.gradle/caches/transforms-2/files-2.1/629276c68185502b61809fc963c5177b/material-1.2.1/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,231,319,407,494,581,668",
+                        "endColumns": "87,87,87,87,86,86,86,86",
+                        "endOffsets": "138,226,314,402,489,576,663,750"
+                    }
+                },
+                {
+                    "source": "/home/destinyed/.gradle/caches/transforms-2/files-2.1/e8f239c5fad8b8a3be06fcbcd41ed7d9/appcompat-1.2.0/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
@@ -20,16 +30,6 @@
                         "endLines": "10,11,15,19",
                         "endColumns": "74,86,12,12",
                         "endOffsets": "825,912,1142,1384"
-                    }
-                },
-                {
-                    "source": "/home/destinyed/.gradle/caches/transforms-2/files-2.1/ac2b8d9dfaed17ff9a97e5dc25117614/material-1.2.0/res/values-v28/values-v28.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,143,231,319,407,494,581,668",
-                        "endColumns": "87,87,87,87,86,86,86,86",
-                        "endOffsets": "138,226,314,402,489,576,663,750"
                     }
                 }
             ]
