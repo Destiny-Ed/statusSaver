@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+            "outputFile": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-port-v13/values-w360dp-port-v13.xml",
             "map": [
                 {
-                    "source": "/home/destinyed/.gradle/caches/transforms-2/files-2.1/629276c68185502b61809fc963c5177b/material-1.2.1/res/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+                    "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/2b2f8f37636187353328cff8daf94178/material-1.2.1/res/values-w360dp-port-v13/values-w360dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

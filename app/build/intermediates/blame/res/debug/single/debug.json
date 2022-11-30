@@ -1,306 +1,306 @@
 [
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/activity_splash.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_status_pro_foreground.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-hdpi/status_pro_foreground.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout-sw600dp_status_layout.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout-sw600dp/status_layout.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_status_pro.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xxhdpi/status_pro.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/menu_menu_main_activity.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/menu/menu_main_activity.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_pro.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-hdpi/pro.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_status_pro_round.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-anydpi-v26/status_pro_round.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_status_layout.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/status_layout.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_activity_news_read.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/activity_news_read.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xhdpi_status_pro_background.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xhdpi/status_pro_background.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-mdpi_status_pro.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-mdpi/status_pro.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_fragment_settings.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/fragment_settings.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_activity_image_saved_full_screen.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/activity_image_saved_full_screen.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_fragment_wsaver.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/fragment_wsaver.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_status_pro_round.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xxxhdpi/status_pro_round.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_activity_video_saved_full_screen.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/activity_video_saved_full_screen.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_status_pro_round.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xxhdpi/status_pro_round.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_status_pro_background.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-hdpi/status_pro_background.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_ic_news.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/drawable/ic_news.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_fragment_news_feed.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/fragment_news_feed.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_status_pro.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-anydpi-v26/status_pro.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_ic_share.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/drawable/ic_share.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/anim_rotate.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/anim/rotate.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_fragment_saved__images.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/fragment_saved__images.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_download.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/drawable-xxhdpi/ic_download.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/menu_bottom_nav.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/menu/bottom_nav.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_status_pro_round.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-hdpi/status_pro_round.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_ic_back.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/drawable/ic_back.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_status_pro_foreground.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xxxhdpi/status_pro_foreground.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_video_status_model.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/video_status_model.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_download.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/drawable-xhdpi/ic_download.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_saved_image_layout.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/saved_image_layout.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_fragment_videos.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/fragment_videos.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_download.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/drawable-anydpi/ic_download.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_status_pro_foreground.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xxhdpi/status_pro_foreground.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_fragment_wsaver.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/fragment_wsaver.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_ic_back.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/drawable/ic_back.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xhdpi_status_pro_foreground.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xhdpi/status_pro_foreground.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_download.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/drawable-hdpi/ic_download.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_status_pro_background.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-hdpi/status_pro_background.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_fragment_images.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/fragment_images.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_status_pro_round.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xxhdpi/status_pro_round.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_ic_settings.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/drawable/ic_settings.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_news_model.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/news_model.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_status_pro.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-hdpi/status_pro.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_button_red.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/drawable/button_red.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/activity_splash.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/menu_menu_main_activity.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/menu/menu_main_activity.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_fragment_saved__videos.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/fragment_saved__videos.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_fragment_saved__status.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/fragment_saved__status.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-mdpi_status_pro_background.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-mdpi/status_pro_background.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_download.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/drawable-anydpi/ic_download.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_fragment_settings.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/fragment_settings.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_news_model.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/news_model.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_status_pro_round.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xxxhdpi/status_pro_round.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_fragment_saved__videos.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/fragment_saved__videos.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-mdpi_status_pro.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-mdpi/status_pro.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_video_saved_model.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/video_saved_model.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_activity_image_full_screen.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/activity_image_full_screen.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_activity_image_full_screen.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/activity_image_full_screen.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_video_saved_model.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/video_saved_model.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_saved_image_layout.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/saved_image_layout.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_status_pro_background.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xxxhdpi/status_pro_background.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_status_pro_round.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-hdpi/status_pro_round.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_pro.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-hdpi/pro.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_fragment_news_feed.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/fragment_news_feed.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_ic_settings.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/drawable/ic_settings.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-mdpi_status_pro_background.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-mdpi/status_pro_background.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/menu_bottom_nav.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/menu/bottom_nav.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_status_pro_background.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xxxhdpi/status_pro_background.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_fragment_saved__status.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/fragment_saved__status.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_activity_video_full_screen.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/activity_video_full_screen.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_ic_play.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/drawable/ic_play.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_ic_play.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/drawable/ic_play.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_pro.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/drawable/pro.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_status_pro.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xxhdpi/status_pro.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_status_pro.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xxxhdpi/status_pro.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_fragment_images.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/fragment_images.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_ic_news.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/drawable/ic_news.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_status_pro_background.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xxhdpi/status_pro_background.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_status_saver_pro.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-hdpi/status_saver_pro.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-mdpi_status_pro_foreground.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-mdpi/status_pro_foreground.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_pro.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/drawable/pro.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_download.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/drawable-xhdpi/ic_download.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_download.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/drawable-hdpi/ic_download.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xhdpi_status_pro_round.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xhdpi/status_pro_round.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_status_pro.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-hdpi/status_pro.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_fragment_videos.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/fragment_videos.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_status_pro_foreground.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xxhdpi/status_pro_foreground.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout-sw600dp_status_layout.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout-sw600dp/status_layout.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_status_pro_background.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xxhdpi/status_pro_background.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_ic_share.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/drawable/ic_share.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-mdpi_status_pro_round.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-mdpi/status_pro_round.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_status_pro.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xxxhdpi/status_pro.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_status_pro.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-anydpi-v26/status_pro.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_ic_print.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/drawable/ic_print.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xhdpi_status_pro_foreground.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xhdpi/status_pro_foreground.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-mdpi_status_pro_round.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-mdpi/status_pro_round.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_button.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/drawable/button.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_activity_video_saved_full_screen.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/activity_video_saved_full_screen.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_status_saver_pro.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-hdpi/status_saver_pro.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-mdpi_status_pro_foreground.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-mdpi/status_pro_foreground.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_download.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/drawable-mdpi/ic_download.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-hdpi_status_pro_foreground.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-hdpi/status_pro_foreground.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_video_status_model.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/video_status_model.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_status_pro_foreground.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xxxhdpi/status_pro_foreground.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xhdpi_status_pro.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xhdpi/status_pro.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xhdpi_status_pro_background.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xhdpi/status_pro_background.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/anim_rotate.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/anim/rotate.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xhdpi_status_pro.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xhdpi/status_pro.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_fragment_saved__images.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/fragment_saved__images.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_download.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/drawable-xxhdpi/ic_download.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_status_layout.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/status_layout.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_status_pro_round.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-anydpi-v26/status_pro_round.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_activity_video_full_screen.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/activity_video_full_screen.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_download.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/drawable-mdpi/ic_download.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_button_red.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/drawable/button_red.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_activity_news_read.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/layout/activity_news_read.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/layout_activity_image_saved_full_screen.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/layout/activity_image_saved_full_screen.xml"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xhdpi_status_pro_round.png.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/mipmap-xhdpi/status_pro_round.png"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_button.xml.flat",
-        "source": "/home/destinyed/AndroidStudioProjects/statusSaver/app/src/main/res/drawable/button.xml"
+        "merged": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/res/merged/debug/drawable_ic_print.xml.flat",
+        "source": "/Users/mac/Documents/ExternalProjects/statusSaver/app/src/main/res/drawable/ic_print.xml"
     }
 ]

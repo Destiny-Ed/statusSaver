@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/destinyed/AndroidStudioProjects/statusSaver/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "outputFile": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
             "map": [
                 {
-                    "source": "/home/destinyed/.gradle/caches/transforms-2/files-2.1/c3e5cc47a6b54a39fa60decc5f6420a0/jetified-android-rate-1.0.1/res/values-zh/values-zh.xml",
+                    "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/6746d805af2d06d49b82214578c383bd/jetified-android-rate-1.0.1/res/values-zh/values-zh.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "4,4,4,4,4",
