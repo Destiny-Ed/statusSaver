@@ -20,6 +20,8 @@ import com.destinyed.statussaverpro.Constants.ConstantsVariables
 import com.destinyed.statussaverpro.Models.Models
 
 import com.destinyed.statussaverpro.R
+import kotlinx.android.synthetic.main.activity_news_read.*
+import kotlinx.android.synthetic.main.fragment_news_feed.*
 import java.io.File
 import java.io.FileInputStream
 import java.io.FileOutputStream
@@ -67,7 +69,7 @@ class Images : Fragment() {
 
 
 
-        if (!ConstantsVariables.whatExits.exists()){
+        if (!ConstantsVariables.whatExits.exists() && !ConstantsVariables.whaSecondtExits.exists()){
             errorStatusImg.visibility = View.VISIBLE
         }
         else{
@@ -91,7 +93,12 @@ class Images : Fragment() {
 
     private fun getStatus() {
 
+        print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 11111")
+
+
         if (ConstantsVariables.whatsApp_Path_Dir.exists()){
+
+            print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ")
 
             var listFiles = ConstantsVariables.whatsApp_Path_Dir.listFiles()
 
@@ -150,6 +157,75 @@ class Images : Fragment() {
                     e.printStackTrace()
                 }
                 }
+
+
+
+        }
+
+
+        ///Check second path
+        if (ConstantsVariables.whatsApp_Path_second.exists()){
+
+            print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 44444 ")
+
+
+            var listFiles = ConstantsVariables.whatsApp_Path_second.listFiles()
+
+            try {
+                for (files in listFiles){
+                    var getName = files.name
+                    var getPath = files.absolutePath
+
+                    var file = files.absoluteFile
+                    //var image = Drawable.createFromPath(realPath)
+                    extensionImg = getPath.takeLast(4)
+                    if (extensionImg == ConstantsVariables.JPG){
+                        var image = ThumbnailUtils.extractThumbnail(BitmapFactory.decodeFile(files.absolutePath), ConstantsVariables.THUMBNAILS,
+                            ConstantsVariables.THUMBNAILS)
+
+                        statusArr.add(Models(file, getName, getPath, image!!))
+                    }
+
+                    else{
+                        errorStatusImg.visibility = View.VISIBLE
+                    }
+                }
+            }catch (e:Exception){
+                errorStatusImg.visibility = View.VISIBLE
+            }
+
+
+//            if (extensionImg.contains(ConstantsVariables.JPG)){
+//                errorStatusImg.visibility = View.GONE
+//                imageAdapter = StatusAdapter(context!!, statusArr, Images())
+//                recyclerView.adapter = imageAdapter
+//                imageAdapter.notifyDataSetChanged()
+//            }
+//            else{
+//                errorStatusImg.visibility = View.VISIBLE
+//            }
+            if(ConstantsVariables.whatsApp_Path_second.exists()){
+                var files = ConstantsVariables.whatsApp_Path_second.listFiles()
+
+                try {
+                    for (img in files){
+                        var path = img.absolutePath
+                        var ext = path.takeLast(4)
+                        if (ext == ConstantsVariables.JPG){
+
+                            imageAdapter = StatusAdapter(context!!, statusArr, Images())
+                            recyclerView.adapter = imageAdapter
+                            imageAdapter.notifyDataSetChanged()
+                            errorStatusImg.visibility = View.GONE
+                        }
+                        else{
+//                            errorStatusImg.visibility = View.VISIBLE
+                        }
+                    }
+                }catch (e:Exception){
+                    e.printStackTrace()
+                }
+            }
 
 
 

@@ -63,7 +63,7 @@ class Videos : Fragment() {
         recyclerView.setHasFixedSize(true)
         recyclerView.layoutManager = GridLayoutManager(context, 2)
 
-        if (!ConstantsVariables.whatExits.exists()){
+        if (!ConstantsVariables.whatExits.exists() && !ConstantsVariables.whaSecondtExits.exists()){
             errorStatusVid.visibility = View.VISIBLE
         }else{
             getStatus()
@@ -133,6 +133,60 @@ class Videos : Fragment() {
                }catch (e:Exception){
                    e.printStackTrace()
                }
+            }
+
+
+
+
+        }
+
+        ///Check if second path exists
+        if (ConstantsVariables.whatsApp_Path_second.exists()){
+
+            var listFiles = ConstantsVariables.whatsApp_Path_second.listFiles()
+
+            try {
+                for (files in listFiles){
+                    var getName = files.name
+                    var getPath = files.path
+
+                    var file = files.absoluteFile
+
+                    var video = ThumbnailUtils.createVideoThumbnail(files.absolutePath, MediaStore.Images.Thumbnails.MICRO_KIND)
+                    extensionVid = getPath.takeLast(4)
+
+                    if (extensionVid == ConstantsVariables.MP4){
+                        statusArr.add(VideoModel(file, getName, getPath, video!!))
+                    }
+                    else{
+                        errorStatusVid.visibility = View.VISIBLE
+                    }
+                }
+            }catch (e:Exception){
+                errorStatusVid.visibility = View.VISIBLE
+            }
+
+            if(ConstantsVariables.whatsApp_Path_second.exists()){
+                var files = ConstantsVariables.whatsApp_Path_second.listFiles()
+
+                try {
+                    for (app in files){
+                        var path = app.absolutePath
+                        var ext = path.takeLast(4)
+                        if (ext == ConstantsVariables.MP4){
+                            videoAdapter = Video_Statust_Adapter(context!!, statusArr, Videos())
+                            recyclerView.adapter = videoAdapter
+                            videoAdapter.notifyDataSetChanged()
+                            errorStatusVid.visibility = View.GONE
+
+                        }
+                        else{
+
+                        }
+                    }
+                }catch (e:Exception){
+                    e.printStackTrace()
+                }
             }
 
 
