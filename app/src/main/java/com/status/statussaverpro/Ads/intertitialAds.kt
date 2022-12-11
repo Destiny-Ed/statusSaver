@@ -3,8 +3,8 @@
 //import android.content.Context
 //import com.google.android.gms.ads.AdListener
 //import com.google.android.gms.ads.AdRequest
-//import com.google.android.gms.ads.InterstitialAd
 //import com.google.android.gms.ads.MobileAds
+//import com.google.android.gms.ads.interstitial.InterstitialAd
 //
 //class intertitialAds(var ctx : Context) {
 //

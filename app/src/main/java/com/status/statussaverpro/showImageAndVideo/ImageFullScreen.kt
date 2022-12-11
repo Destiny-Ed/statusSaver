@@ -7,13 +7,18 @@ import android.graphics.drawable.BitmapDrawable
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.Handler
+import android.util.Log
 import android.widget.ImageView
 import android.widget.Toast
 import androidx.print.PrintHelper
 import com.google.android.gms.ads.*
+import com.google.android.gms.ads.interstitial.InterstitialAd
+import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback
 import com.status.statussaverpro.Constants.ConstantsVariables
 import com.status.statussaverpro.R
 import com.google.android.material.floatingactionbutton.FloatingActionButton
+import com.status.statussaverpro.SF.SFClass
 import java.io.File
 import java.io.FileOutputStream
 import java.lang.Exception
@@ -22,15 +27,6 @@ class ImageFullScreen : AppCompatActivity() {
 
     //variable for admob
     private lateinit var mAdView : AdView
-    private val mAppUnitId: String by lazy {
-
-        "ca-app-pub-3940256099942544/1033173712"
-        R.string.intertitial_test_Ads_unitId.toString()
-
-
-        //test ads
-//        "ca-app-pub-3940256099942544/6300978111"
-    }
 
     private lateinit var showImage : ImageView
 
@@ -43,7 +39,9 @@ class ImageFullScreen : AppCompatActivity() {
 
     var imageTitle : String? = null
 
-//    private lateinit var mInterstitialAd: InterstitialAd
+    ///Ads
+    private var mInterstitialAd: InterstitialAd? = null
+    private final var TAG = "MainActivity"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -52,10 +50,60 @@ class ImageFullScreen : AppCompatActivity() {
         /**
          *InterstitialAds Implementation
          */
-        MobileAds.initialize(this)
-//        mInterstitialAd = InterstitialAd(this)
-//        mInterstitialAd.adUnitId = R.string.intertitial_test_Ads_unitId.toString()
-//        mInterstitialAd.loadAd(AdRequest.Builder().build())
+        var adRequest = AdRequest.Builder().build()
+
+        InterstitialAd.load(this,"ca-app-pub-3940256099942544/1033173712", adRequest, object : InterstitialAdLoadCallback() {
+            override fun onAdFailedToLoad(adError: LoadAdError) {
+                Log.d(TAG, adError?.toString())
+                mInterstitialAd = null
+            }
+
+            override fun onAdLoaded(interstitialAd: InterstitialAd) {
+                Log.d(TAG, "Ad was loaded.")
+                mInterstitialAd = interstitialAd
+
+                var value = SFClass(this@ImageFullScreen).willShowImageAds()
+
+                if(value){
+                    ///Show ads
+                    if (mInterstitialAd != null) {
+                        mInterstitialAd?.show(this@ImageFullScreen)
+                    } else {
+                        Log.d("TAG", "The interstitial ad wasn't ready yet.")
+                    }
+                }
+
+
+            }
+        })
+
+
+
+        mInterstitialAd?.fullScreenContentCallback = object: FullScreenContentCallback() {
+
+
+            override fun onAdDismissedFullScreenContent() {
+                // Called when ad is dismissed.
+                Log.d(TAG, "Ad dismissed fullscreen content.")
+                mInterstitialAd = null
+            }
+
+            override fun onAdFailedToShowFullScreenContent(adError: AdError?) {
+                // Called when ad fails to show.
+                Log.e(TAG, "Ad failed to show fullscreen content.")
+                mInterstitialAd = null
+            }
+
+            override fun onAdImpression() {
+                // Called when an impression is recorded for an ad.
+                Log.d(TAG, "Ad recorded an impression.")
+            }
+
+            override fun onAdShowedFullScreenContent() {
+                // Called when ad is shown.
+                Log.d(TAG, "Ad showed fullscreen content.")
+            }
+        }
 
 
         /**
@@ -110,6 +158,8 @@ class ImageFullScreen : AppCompatActivity() {
         }
 
     }
+
+
 
     private fun doImage_share(imageUri: Uri?) {
         var arr : Any = arrayOf(imageUri, "hello")

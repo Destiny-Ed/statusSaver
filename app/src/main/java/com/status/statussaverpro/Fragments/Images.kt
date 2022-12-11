@@ -91,6 +91,14 @@ class Images : Fragment() {
         }
     }
 
+    override fun onResume() {
+        super.onResume()
+        getStatus();
+
+        addBannerAds();
+        loadBannerAds();
+    }
+
     /**
      * Adds banner ads to the items list.
      */
@@ -176,6 +184,8 @@ class Images : Fragment() {
     private fun getStatus() {
 
         print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 11111")
+
+        statusArr.clear()
 
 
         if (ConstantsVariables.whatsApp_Path_Dir.exists()){
