@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/Users/mac/Desktop/statusSaver/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/b61a41c60808afaf1f8d117b31cab8b3/appcompat-1.2.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/ec53dfa48ae3292eb2f0009ece2a673d/core-1.8.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/501518837a4d0c93ce9c96ec56fdef96/appcompat-1.4.2/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/5a61fbd0a0e46a4eae472a33b5c2fe66/core-1.3.2/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

@@ -21,7 +21,7 @@
       "properties": {
         "packageId": "com.destinyed.statussaverpro",
         "split": "",
-        "minSdkVersion": "17"
+        "minSdkVersion": "21"
       }
     }
   ]

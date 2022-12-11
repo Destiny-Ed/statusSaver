@@ -1,32 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.destinyed.statussaverpro">
+    package="com.status.statussaverpro">
 
+    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/status_pro"
+        android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/status_pro"
+        android:roundIcon="@mipmap/ic_launcher"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:requestLegacyExternalStorage="true">
-        <activity android:name=".News.NewsRead"
-            android:configChanges="screenSize|orientation|uiMode">
 
-        </activity>
         <activity
-            android:name=".showImageAndVideo.ImageSavedFullScreen"
+            android:name="com.status.statussaverpro.showImageAndVideo.ImageSavedFullScreen"
             android:configChanges="screenSize|orientation|uiMode" />
         <activity
-            android:name=".showImageAndVideo.videoSavedFullScreen"
+            android:name="com.status.statussaverpro.showImageAndVideo.videoSavedFullScreen"
             android:configChanges="screenSize|orientation|uiMode" />
 
         <activity
-            android:name=".splashScreen_and_Settings_utils.Splash"
+            android:name="com.status.statussaverpro.splashScreen_and_Settings_utils.Splash"
             android:configChanges="screenSize|orientation|uiMode">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -35,14 +32,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".showImageAndVideo.videoFullScreen"
+            android:name="com.status.statussaverpro.showImageAndVideo.videoFullScreen"
             android:configChanges="screenSize|orientation|uiMode" />
         <activity
-            android:name=".showImageAndVideo.ImageFullScreen"
+            android:name="com.status.statussaverpro.showImageAndVideo.ImageFullScreen"
             android:configChanges="screenSize|orientation|uiMode" />
         <activity
-            android:name=".MainActivity"
-            android:configChanges="screenSize|orientation|uiMode">
+            android:name="com.status.statussaverpro.MainActivity"
+            android:configChanges="screenSize|orientation|uiMode"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>

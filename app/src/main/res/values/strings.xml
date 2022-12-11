@@ -3,11 +3,18 @@
 
 
 
-    <string name="App_Id">ca-app-pub-1700196351561262~3543187864</string>
+    <string name="App_Id">ca-app-pub-3940256099942544~3347511713</string>
 
     <string name="intertitial_Ads_unitId">ca-app-pub-1700196351561262/3337150215</string>
+
+    <string name="intertitial_test_Ads_unitId">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="banner_native_ads">ca-app-pub-3940256099942544/2247696110</string>
 
     <string name="banner_Ads_unitId">ca-app-pub-1700196351561262/9188899230</string>
 
     <string name="banner_test_ads">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="action_settings">Rate our App</string>
+    <string name="action_share">Share App</string>
+    <string name="action_about">About</string>
 </resources>

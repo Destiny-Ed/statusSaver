@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-port-v13/values-w480dp-port-v13.xml",
+            "outputFile": "/Users/mac/Desktop/statusSaver/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-port-v13/values-w480dp-port-v13.xml",
             "map": [
                 {
-                    "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/2b2f8f37636187353328cff8daf94178/material-1.2.1/res/values-w480dp-port-v13/values-w480dp-port-v13.xml",
+                    "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/d17cf7a85a1ba81a44fc8e9b6f93a167/material-1.6.1/res/values-w480dp-port-v13/values-w480dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

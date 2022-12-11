@@ -1,2 +1,3 @@
 include ':app'
 rootProject.name='Status Saver Pro'
+include ':nativetemplates'

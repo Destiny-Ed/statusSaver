@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mac/Documents/ExternalProjects/statusSaver/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "outputFile": "/Users/mac/Desktop/statusSaver/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
             "map": [
                 {
                     "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/6746d805af2d06d49b82214578c383bd/jetified-android-rate-1.0.1/res/values-zh/values-zh.xml",
