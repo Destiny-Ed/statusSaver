@@ -39,7 +39,7 @@ class Videos : Fragment() {
     ///ads
     val ITEMS_PER_AD: Int = 8
 
-    private val AD_UNIT_ID = "ca-app-pub-3940256099942544/6300978111"
+    private val AD_UNIT_ID = "ca-app-pub-1420223449979323/8943795761"
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,

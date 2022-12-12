@@ -3594,9 +3594,9 @@ int string action_share 0x7f0f001e
 int string androidx_startup 0x7f0f001f
 int string app_name 0x7f0f0020
 int string appbar_scrolling_view_behavior 0x7f0f0021
-int string banner_Ads_unitId 0x7f0f0022
+int string banner_ads_unitId 0x7f0f0022
 int string banner_native_ads 0x7f0f0023
-int string banner_test_ads 0x7f0f0024
+int string banner_tes_ads 0x7f0f0024
 int string bottom_sheet_behavior 0x7f0f0025
 int string bottomsheet_action_expand_halfway 0x7f0f0026
 int string character_counter_content_description 0x7f0f0027

@@ -40,12 +40,15 @@ class videoFullScreen : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_video_full_screen)
 
+        var value = SFClass(this@videoFullScreen).willShowVideoAds()
+
+
         /**
          *InterstitialAds Implementation
          */
         var adRequest = AdRequest.Builder().build()
 
-        InterstitialAd.load(this,"ca-app-pub-3940256099942544/1033173712", adRequest, object : InterstitialAdLoadCallback() {
+        InterstitialAd.load(this,"ca-app-pub-1420223449979323/2717885499", adRequest, object : InterstitialAdLoadCallback() {
             override fun onAdFailedToLoad(adError: LoadAdError) {
                 Log.d(TAG, adError?.toString())
                 mInterstitialAd = null
@@ -55,7 +58,6 @@ class videoFullScreen : AppCompatActivity() {
                 Log.d(TAG, "Ad was loaded.")
                 mInterstitialAd = interstitialAd
 
-                var value = SFClass(this@videoFullScreen).willShowVideoAds()
 
                 if(value){
                     ///Show ads

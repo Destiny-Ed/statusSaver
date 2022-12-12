@@ -14,7 +14,7 @@ class SFClass (ctx : Context) {
         if(getData == 0){
             editor.putInt("count",1)
             editor.apply()
-            return false;
+            return true
         }else if (getData <= 3){
             editor.putInt("count",1 + getData)
             editor.apply()
@@ -33,7 +33,7 @@ class SFClass (ctx : Context) {
         if(getData == 0){
             editor.putInt("count2",1)
             editor.apply()
-            return false;
+            return true
         }else if (getData <= 3){
             editor.putInt("count2",1 + getData)
             editor.apply()

@@ -16,13 +16,16 @@
         android:requestLegacyExternalStorage="true">
 
         <activity
+            android:exported="true"
             android:name="com.status.statussaverpro.showImageAndVideo.ImageSavedFullScreen"
             android:configChanges="screenSize|orientation|uiMode" />
         <activity
+            android:exported="true"
             android:name="com.status.statussaverpro.showImageAndVideo.videoSavedFullScreen"
             android:configChanges="screenSize|orientation|uiMode" />
 
         <activity
+            android:exported="true"
             android:name="com.status.statussaverpro.splashScreen_and_Settings_utils.Splash"
             android:configChanges="screenSize|orientation|uiMode">
             <intent-filter>
@@ -31,10 +34,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity
+            android:exported="true"
             android:name="com.status.statussaverpro.showImageAndVideo.videoFullScreen"
             android:configChanges="screenSize|orientation|uiMode" />
         <activity
+            android:exported="true"
             android:name="com.status.statussaverpro.showImageAndVideo.ImageFullScreen"
             android:configChanges="screenSize|orientation|uiMode" />
         <activity

@@ -24,12 +24,12 @@
         "source": "/Users/mac/Desktop/statusSaver/app/src/main/res/drawable-xhdpi/ic_download.png"
     },
     {
-        "merged": "/Users/mac/Desktop/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_background.png.flat",
-        "source": "/Users/mac/Desktop/statusSaver/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png"
-    },
-    {
         "merged": "/Users/mac/Desktop/statusSaver/app/build/intermediates/res/merged/debug/drawable_ic_share.xml.flat",
         "source": "/Users/mac/Desktop/statusSaver/app/src/main/res/drawable/ic_share.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/statusSaver/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/mac/Desktop/statusSaver/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png"
     },
     {
         "merged": "/Users/mac/Desktop/statusSaver/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",

@@ -13,12 +13,7 @@ class videoSavedFullScreen : AppCompatActivity() {
 
     //variable for admob
     private lateinit var mAdView : AdView
-    private val mAppUnitId: String by lazy {
 
-        "ca-app-pub-1700196351561262/9188899230"
-        //test ads
-//        "ca-app-pub-3940256099942544/6300978111"
-    }
 
 //    private lateinit var mInterstitialAd: InterstitialAd
     private lateinit var shareVideo : FloatingActionButton
@@ -30,13 +25,6 @@ class videoSavedFullScreen : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_video_saved_full_screen)
 
-        /**
-         *InterstitialAds Implementation
-         */
-        MobileAds.initialize(this)
-//        mInterstitialAd = InterstitialAd(this)
-//        mInterstitialAd.adUnitId = "ca-app-pub-1700196351561262/3337150215"
-//        mInterstitialAd.loadAd(AdRequest.Builder().build())
 
         /**
          * Banner |Ads Implementation

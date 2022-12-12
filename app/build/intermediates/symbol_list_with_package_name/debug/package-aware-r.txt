@@ -3595,9 +3595,9 @@ string action_share
 string androidx_startup
 string app_name
 string appbar_scrolling_view_behavior
-string banner_Ads_unitId
+string banner_ads_unitId
 string banner_native_ads
-string banner_test_ads
+string banner_tes_ads
 string bottom_sheet_behavior
 string bottomsheet_action_expand_halfway
 string character_counter_content_description

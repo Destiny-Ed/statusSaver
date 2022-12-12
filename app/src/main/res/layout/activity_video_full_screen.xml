@@ -38,7 +38,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_below="@id/toolbar"
         ads:adSize="BANNER"
-        ads:adUnitId="@string/banner_test_ads">
+        ads:adUnitId="@string/banner_ads_unitId">
     </com.google.android.gms.ads.AdView>
 
 
